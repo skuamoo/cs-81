@@ -63,7 +63,7 @@ for links in hyperlinks:
                 tokens_cleaned = [word for word in tokens if word.lower() not in stopwords.words('english') and len(word) > 2]
                 freq = dict(nltk.FreqDist(tokens_cleaned))
                 scene_obj = {'title':title, 'act':act, 'scene':scene, 'lines':scene_lines, 'text':text, 'freq':freq}
-        data.append(scene_obj)
+            data.append(scene_obj)
 f = open('shakespeare.txt', 'w')
 f.writelines(str(data))
 f.close()
