@@ -18,7 +18,7 @@ data_acts = []
 for link in play_links:
     if 'href' in link.attrs:
         #skip news link
-        if(link.attrs['href'] == "news.html"):
+        if link.attrs['href'] == "news.html":
             continue
         
         path = str(link.attrs['href'])        
@@ -27,42 +27,53 @@ for link in play_links:
         html_plays =  urlopen("http://shakespeare.mit.edu/" + link.attrs['href'] )
         plays = BeautifulSoup(html_plays)
         #title = plays.find('td').contents[0].strip()
-        if(directory == "Poetry"):
-            #Skip poetry due to inherent stylistic differences
+        if directory == "Poetry" and link.attrs['href'] != "Poetry/sonnets.html":
             continue
+
         else:
             act_links = plays.findAll("a",href=re.compile("(.html)"))
 
-        act_text = defaultdict(lambda:defaultdict(list))
-        act_lines = defaultdict(lambda:defaultdict(list))
-        for link2 in act_links:
-            scene_lines = []
-            #Skip link to full play
-            if(link2.attrs['href'] == "full.html"):
-                continue
-            if 'href' in link2.attrs:
-                link_href = str(link2.attrs['href'])
-                #print("Reading file: http://shakespeare.mit.edu/" + directory + "/" + link_href)
-                html_acts = urlopen("http://shakespeare.mit.edu/" + directory + "/" + link_href)
-                acts = BeautifulSoup(html_acts)
-                scenes = acts.findAll('a')
-                title = acts.find('td').contents[0].strip()
-                act_start = link_href.find(".", link_href.find(directory + "."))+1
-                act_end = link_href.find(".", act_start)
-                act = link_href[act_start:act_end]
-                scene = link_href[act_end+1:link_href.find(".html")]                               
-                for link3 in scenes:
-                    if 'name' in link3.attrs:
-                        if link3.attrs['name'].isnumeric():
-                            scene_lines.append(link3.contents[0].strip())
-                text = ' '.join(scene_lines)
-                tokens = nltk.word_tokenize(text)
-                #tokens_cleaned = [word for word in tokens if word.lower() not in stopwords.words('english') and len(word) > 2]
-                #freq = dict(nltk.FreqDist(tokens))
-                scene_obj = {'title':title, 'act':act, 'scene':scene, 'lines':scene_lines, 'text':text}
-                data_scenes.append(scene_obj)
-                act_lines[title][act] += scene_lines
-                act_text[title][act].append(text)
+            act_text = defaultdict(lambda:defaultdict(list))
+            act_lines = defaultdict(lambda:defaultdict(list))
+            sonnets = 1
+            for link2 in act_links:
+                scene_lines = []
+                #Skip link to full play
+                if(link2.attrs['href'] == "full.html"):
+                    continue
+                if 'href' in link2.attrs:
+                    link_href = str(link2.attrs['href'])
+                    #print("Reading file: http://shakespeare.mit.edu/" + directory + "/" + link_href)
+                    html_acts = urlopen("http://shakespeare.mit.edu/" + directory + "/" + link_href)
+                    acts = BeautifulSoup(html_acts)
+                    if directory == "Poetry":
+                        title = "Sonnets"
+                        act = '1'
+                        scene = str(sonnets)
+                        sonnets += 1
+                        #Get list of sonnet lines
+                        s_text = str(acts.find('blockquote'))[12:-19].split('<br/>')
+                        scene_lines = [line.strip() for line in s_text]
+                        text = ' '.join(scene_lines)
+                    else:
+                        scenes = acts.findAll('a')
+                        title = acts.find('td').contents[0].strip()
+                        act_start = link_href.find(".", link_href.find(directory + "."))+1
+                        act_end = link_href.find(".", act_start)
+                        act = link_href[act_start:act_end]
+                        scene = link_href[act_end+1:link_href.find(".html")]                               
+                        for link3 in scenes:
+                            if 'name' in link3.attrs:
+                                if link3.attrs['name'].isnumeric():
+                                    scene_lines.append(link3.contents[0].strip())
+                        text = ' '.join(scene_lines)
+                    #tokens = nltk.word_tokenize(text)
+                    #tokens_cleaned = [word for word in tokens if word.lower() not in stopwords.words('english') and len(word) > 2]
+                    #freq = dict(nltk.FreqDist(tokens))
+                    scene_obj = {'title':title, 'act':act, 'scene':scene, 'lines':scene_lines, 'text':text}
+                    data_scenes.append(scene_obj)
+                    act_lines[title][act] += scene_lines
+                    act_text[title][act].append(text)
 
         for key in sorted(act_lines.keys()):
             for act_num in sorted(act_lines[key].keys()):
