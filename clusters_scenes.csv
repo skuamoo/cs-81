@@ -1,908 +1,908 @@
 ,Title,Act,Scene,Frequency_km,Structural_km,Ngram_km
-0,All's Well That Ends Well,1,1,2,0,1
-1,All's Well That Ends Well,1,2,0,1,1
-2,All's Well That Ends Well,1,3,2,0,2
-3,All's Well That Ends Well,2,1,2,0,1
-4,All's Well That Ends Well,2,2,0,0,1
-5,All's Well That Ends Well,2,3,1,0,2
-6,All's Well That Ends Well,2,4,0,0,1
-7,All's Well That Ends Well,2,5,0,0,1
-8,All's Well That Ends Well,3,1,0,1,1
-9,All's Well That Ends Well,3,2,2,0,1
-10,All's Well That Ends Well,3,3,0,1,1
-11,All's Well That Ends Well,3,4,0,1,1
-12,All's Well That Ends Well,3,5,0,0,1
-13,All's Well That Ends Well,3,6,2,0,1
-14,All's Well That Ends Well,3,7,0,1,1
-15,All's Well That Ends Well,4,1,0,0,1
-16,All's Well That Ends Well,4,2,0,0,1
-17,All's Well That Ends Well,4,3,1,0,1
-18,All's Well That Ends Well,4,4,0,1,1
-19,All's Well That Ends Well,4,5,2,0,1
-20,All's Well That Ends Well,5,1,0,0,1
-21,All's Well That Ends Well,5,2,0,0,1
-22,All's Well That Ends Well,5,3,1,0,1
-23,As You Like It,1,1,2,0,1
-24,As You Like It,1,2,1,0,1
-25,As You Like It,1,3,2,0,1
-26,As You Like It,2,1,0,1,1
-27,As You Like It,2,2,0,1,1
-28,As You Like It,2,3,0,0,1
-29,As You Like It,2,4,0,0,1
-30,As You Like It,2,5,0,0,1
-31,As You Like It,2,6,0,0,1
-32,As You Like It,2,7,2,0,1
-33,As You Like It,3,1,0,1,1
-34,As You Like It,3,2,1,0,2
-35,As You Like It,3,3,2,0,1
-36,As You Like It,3,4,0,0,1
-37,As You Like It,3,5,2,0,1
-38,As You Like It,4,1,2,0,1
-39,As You Like It,4,2,0,0,1
-40,As You Like It,4,3,2,0,1
-41,As You Like It,5,1,0,0,1
-42,As You Like It,5,2,2,0,1
-43,As You Like It,5,3,0,0,1
-44,As You Like It,5,4,2,0,1
-45,The Comedy of Errors,1,1,2,1,1
-46,The Comedy of Errors,1,2,0,0,1
-47,The Comedy of Errors,2,1,2,0,1
-48,The Comedy of Errors,2,2,2,0,0
-49,The Comedy of Errors,3,1,2,0,1
-50,The Comedy of Errors,3,2,2,0,1
-51,The Comedy of Errors,4,1,2,0,1
-52,The Comedy of Errors,4,2,0,0,1
-53,The Comedy of Errors,4,3,0,0,1
-54,The Comedy of Errors,4,4,2,0,1
-55,The Comedy of Errors,5,1,1,0,1
-56,Cymbeline,1,1,2,0,1
-57,Cymbeline,1,2,0,0,1
-58,Cymbeline,1,3,0,0,1
-59,Cymbeline,1,4,2,0,1
-60,Cymbeline,1,5,0,0,1
-61,Cymbeline,1,6,2,0,1
-62,Cymbeline,2,1,0,0,1
-63,Cymbeline,2,2,2,0,1
-64,Cymbeline,2,4,2,0,1
-65,Cymbeline,2,5,0,1,1
-66,Cymbeline,3,1,0,1,1
-67,Cymbeline,3,2,0,0,1
-68,Cymbeline,3,3,0,1,1
-69,Cymbeline,3,4,2,0,2
-70,Cymbeline,3,5,2,0,1
-71,Cymbeline,3,6,0,0,1
-72,Cymbeline,3,7,0,0,1
-73,Cymbeline,4,1,0,1,1
-74,Cymbeline,4,2,1,0,1
-75,Cymbeline,4,3,0,0,1
-76,Cymbeline,4,4,0,0,1
-77,Cymbeline,5,1,0,1,1
-78,Cymbeline,5,2,0,0,1
-79,Cymbeline,5,3,0,0,1
-80,Cymbeline,5,4,2,0,1
-81,Cymbeline,5,5,1,0,0
-82,Loves Labours Lost,1,1,1,0,1
-83,Loves Labours Lost,1,2,2,0,1
-84,Loves Labours Lost,2,1,2,0,1
-85,Loves Labours Lost,3,1,2,0,1
-86,Loves Labours Lost,4,1,2,0,1
-87,Loves Labours Lost,4,2,2,0,1
-88,Loves Labours Lost,4,3,1,0,1
-89,Loves Labours Lost,5,1,2,0,1
-90,Loves Labours Lost,5,2,1,0,2
-91,Measure for Measure,1,1,0,1,1
-92,Measure for Measure,1,2,2,0,2
-93,Measure for Measure,1,3,0,1,1
-94,Measure for Measure,1,4,0,0,1
-95,Measure for Measure,2,1,1,0,2
-96,Measure for Measure,2,2,2,0,2
-97,Measure for Measure,2,3,0,0,1
-98,Measure for Measure,2,4,2,0,1
-99,Measure for Measure,3,1,2,0,1
-100,Measure for Measure,3,2,2,0,1
-101,Measure for Measure,4,1,0,0,1
-102,Measure for Measure,4,2,2,0,1
-103,Measure for Measure,4,3,2,0,1
-104,Measure for Measure,4,4,0,0,1
-105,Measure for Measure,4,5,0,1,1
-106,Measure for Measure,4,6,0,0,1
-107,Measure for Measure,5,1,1,0,1
-108,The Merry Wives of Windsor,1,1,2,0,0
-109,The Merry Wives of Windsor,1,2,0,0,1
-110,The Merry Wives of Windsor,1,3,0,0,1
-111,The Merry Wives of Windsor,1,4,2,0,1
-112,The Merry Wives of Windsor,2,1,2,0,2
-113,The Merry Wives of Windsor,2,2,1,0,2
-114,The Merry Wives of Windsor,2,3,0,0,1
-115,The Merry Wives of Windsor,3,1,0,0,1
-116,The Merry Wives of Windsor,3,2,0,0,1
-117,The Merry Wives of Windsor,3,3,2,0,2
-118,The Merry Wives of Windsor,3,4,2,0,2
-119,The Merry Wives of Windsor,3,5,2,0,1
-120,The Merry Wives of Windsor,4,1,0,0,1
-121,The Merry Wives of Windsor,4,2,2,0,2
-122,The Merry Wives of Windsor,4,3,0,0,1
-123,The Merry Wives of Windsor,4,4,0,0,1
-124,The Merry Wives of Windsor,4,5,2,0,1
-125,The Merry Wives of Windsor,4,6,0,1,1
-126,The Merry Wives of Windsor,5,1,0,0,1
-127,The Merry Wives of Windsor,5,2,0,0,1
-128,The Merry Wives of Windsor,5,3,0,0,1
-129,The Merry Wives of Windsor,5,4,0,2,1
-130,The Merry Wives of Windsor,5,5,2,0,2
-131,The Merchant of Venice,1,1,1,0,1
-132,The Merchant of Venice,1,3,2,0,1
-133,The Merchant of Venice,2,1,0,1,1
-134,The Merchant of Venice,2,2,2,0,2
-135,The Merchant of Venice,2,3,0,0,1
-136,The Merchant of Venice,2,4,0,0,1
-137,The Merchant of Venice,2,5,0,0,1
-138,The Merchant of Venice,2,6,0,0,1
-139,The Merchant of Venice,2,7,0,0,1
-140,The Merchant of Venice,2,8,0,0,1
-141,The Merchant of Venice,2,9,0,0,1
-142,The Merchant of Venice,3,1,2,0,1
-143,The Merchant of Venice,3,2,1,0,1
-144,The Merchant of Venice,3,3,0,0,1
-145,The Merchant of Venice,3,4,0,1,1
-146,The Merchant of Venice,3,5,0,0,1
-147,The Merchant of Venice,4,1,1,0,1
-148,The Merchant of Venice,4,2,0,0,1
-149,The Merchant of Venice,5,1,1,0,1
-150,A Midsummer Night's Dream,1,1,2,1,1
-151,A Midsummer Night's Dream,1,2,0,0,1
-152,A Midsummer Night's Dream,2,1,2,1,1
-153,A Midsummer Night's Dream,2,2,2,0,1
-154,A Midsummer Night's Dream,3,1,2,0,1
-155,A Midsummer Night's Dream,3,2,1,0,1
-156,A Midsummer Night's Dream,4,1,2,0,1
-157,A Midsummer Night's Dream,4,2,0,0,1
-158,A Midsummer Night's Dream,5,1,1,0,1
-159,Much Ado About Nothing,1,1,1,0,1
-160,Much Ado About Nothing,1,2,0,0,1
-161,Much Ado About Nothing,1,3,0,0,1
-162,Much Ado About Nothing,2,1,1,0,2
-163,Much Ado About Nothing,2,2,0,0,1
-164,Much Ado About Nothing,2,3,1,0,2
-165,Much Ado About Nothing,3,1,2,1,1
-166,Much Ado About Nothing,3,2,2,0,1
-167,Much Ado About Nothing,3,3,2,0,1
-168,Much Ado About Nothing,3,4,0,0,1
-169,Much Ado About Nothing,3,5,0,0,1
-170,Much Ado About Nothing,4,1,1,0,1
-171,Much Ado About Nothing,4,2,0,0,1
-172,Much Ado About Nothing,5,1,1,0,2
-173,Much Ado About Nothing,5,2,0,0,1
-174,Much Ado About Nothing,5,3,0,0,1
-175,Much Ado About Nothing,5,4,2,0,2
-176,"Pericles, Prince of Tyre",1,0,0,1,1
-177,"Pericles, Prince of Tyre",1,1,2,1,1
-178,"Pericles, Prince of Tyre",1,2,2,1,1
-179,"Pericles, Prince of Tyre",1,3,0,0,1
-180,"Pericles, Prince of Tyre",1,4,2,1,1
-181,"Pericles, Prince of Tyre",2,1,2,0,1
-182,"Pericles, Prince of Tyre",2,2,0,1,1
-183,"Pericles, Prince of Tyre",2,3,2,0,1
-184,"Pericles, Prince of Tyre",2,4,0,1,1
-185,"Pericles, Prince of Tyre",2,5,2,0,1
-186,"Pericles, Prince of Tyre",3,2,0,0,1
-187,"Pericles, Prince of Tyre",3,3,0,0,1
-188,"Pericles, Prince of Tyre",3,4,0,1,1
-189,"Pericles, Prince of Tyre",4,1,0,0,1
-190,"Pericles, Prince of Tyre",4,2,2,0,1
-191,"Pericles, Prince of Tyre",4,3,0,0,1
-192,"Pericles, Prince of Tyre",4,5,0,0,1
-193,"Pericles, Prince of Tyre",4,6,2,0,0
-194,"Pericles, Prince of Tyre",5,1,1,0,1
-195,"Pericles, Prince of Tyre",5,3,0,0,1
-196,The Taming of the Shrew,0,1,2,0,1
-197,The Taming of the Shrew,0,2,2,0,1
-198,The Taming of the Shrew,1,1,2,0,1
-199,The Taming of the Shrew,1,2,1,0,2
-200,The Taming of the Shrew,2,1,1,0,1
-201,The Taming of the Shrew,3,1,0,0,1
-202,The Taming of the Shrew,3,2,2,0,1
-203,The Taming of the Shrew,4,1,2,0,1
-204,The Taming of the Shrew,4,2,2,0,1
-205,The Taming of the Shrew,4,3,2,0,1
-206,The Taming of the Shrew,4,4,0,0,1
-207,The Taming of the Shrew,4,5,0,0,1
-208,The Taming of the Shrew,5,1,2,0,2
-209,The Taming of the Shrew,5,2,2,0,1
-210,The Tempest,1,1,0,0,1
-211,The Tempest,1,2,1,0,1
-212,The Tempest,2,1,1,0,1
-213,The Tempest,2,2,2,0,1
-214,The Tempest,3,1,0,0,1
-215,The Tempest,3,2,2,0,1
-216,The Tempest,3,3,2,0,1
-217,The Tempest,4,1,2,0,1
-218,The Tempest,5,1,1,0,1
-219,Troilus and Cressida,1,1,2,0,1
-220,Troilus and Cressida,1,2,1,0,2
-221,Troilus and Cressida,1,3,1,1,1
-222,Troilus and Cressida,2,1,2,0,1
-223,Troilus and Cressida,2,2,2,0,1
-224,Troilus and Cressida,2,3,2,0,1
-225,Troilus and Cressida,3,1,2,0,1
-226,Troilus and Cressida,3,2,2,0,1
-227,Troilus and Cressida,3,3,1,0,1
-228,Troilus and Cressida,4,1,0,0,1
-229,Troilus and Cressida,4,2,2,0,2
-230,Troilus and Cressida,4,3,0,1,1
-231,Troilus and Cressida,4,4,2,0,1
-232,Troilus and Cressida,4,5,2,0,1
-233,Troilus and Cressida,5,1,0,0,1
-234,Troilus and Cressida,5,2,2,0,2
-235,Troilus and Cressida,5,3,2,0,1
-236,Troilus and Cressida,5,4,0,0,1
-237,Troilus and Cressida,5,5,0,0,1
-238,Troilus and Cressida,5,6,0,0,1
-239,Troilus and Cressida,5,7,0,0,1
-240,Troilus and Cressida,5,8,0,1,1
-241,Troilus and Cressida,5,9,0,0,1
-242,Troilus and Cressida,5,10,0,0,1
-243,Twelfth Night,1,1,0,0,1
-244,Twelfth Night,1,2,0,0,1
-245,Twelfth Night,1,3,2,0,1
-246,Twelfth Night,1,4,0,0,1
-247,Twelfth Night,1,5,1,0,2
-248,Twelfth Night,2,1,0,0,1
-249,Twelfth Night,2,2,0,0,1
-250,Twelfth Night,2,3,2,0,1
-251,Twelfth Night,2,4,2,0,1
-252,Twelfth Night,2,5,2,0,1
-253,Twelfth Night,3,1,2,0,1
-254,Twelfth Night,3,2,0,0,1
-255,Twelfth Night,3,3,0,1,1
-256,Twelfth Night,3,4,1,0,2
-257,Twelfth Night,4,1,0,0,1
-258,Twelfth Night,4,2,2,0,1
-259,Twelfth Night,4,3,0,1,1
-260,Twelfth Night,5,1,1,0,2
-261,Two Gentlemen of Verona,1,1,2,0,1
-262,Two Gentlemen of Verona,1,2,2,0,1
-263,Two Gentlemen of Verona,1,3,0,0,1
-264,Two Gentlemen of Verona,2,1,2,0,1
-265,Two Gentlemen of Verona,2,2,0,0,1
-266,Two Gentlemen of Verona,2,3,0,0,1
-267,Two Gentlemen of Verona,2,4,2,0,1
-268,Two Gentlemen of Verona,2,5,0,0,1
-269,Two Gentlemen of Verona,2,6,0,1,1
-270,Two Gentlemen of Verona,2,7,0,1,1
-271,Two Gentlemen of Verona,3,1,1,0,1
-272,Two Gentlemen of Verona,3,2,0,1,1
-273,Two Gentlemen of Verona,4,1,0,0,1
-274,Two Gentlemen of Verona,4,2,2,0,1
-275,Two Gentlemen of Verona,4,3,0,1,1
-276,Two Gentlemen of Verona,4,4,2,0,2
-277,Two Gentlemen of Verona,5,1,0,1,1
-278,Two Gentlemen of Verona,5,2,0,0,1
-279,Two Gentlemen of Verona,5,3,0,0,1
-280,Two Gentlemen of Verona,5,4,2,0,2
-281,Winter's Tale,1,1,0,0,1
-282,Winter's Tale,1,2,1,0,1
-283,Winter's Tale,2,1,2,0,1
-284,Winter's Tale,2,2,0,0,1
-285,Winter's Tale,2,3,2,0,1
-286,Winter's Tale,3,1,0,0,1
-287,Winter's Tale,3,2,2,0,1
-288,Winter's Tale,3,3,2,0,1
-289,Winter's Tale,4,2,0,1,1
-290,Winter's Tale,4,3,2,0,1
-291,Winter's Tale,4,4,1,0,1
-292,Winter's Tale,5,1,2,0,1
-293,Winter's Tale,5,2,2,0,1
-294,Winter's Tale,5,3,2,0,1
-295,The First part of King Henry the Fourth,1,1,0,1,1
-296,The First part of King Henry the Fourth,1,2,2,0,1
-297,The First part of King Henry the Fourth,1,3,1,1,1
-298,The First part of King Henry the Fourth,2,1,0,0,1
-299,The First part of King Henry the Fourth,2,2,0,0,1
-300,The First part of King Henry the Fourth,2,3,2,0,1
-301,The First part of King Henry the Fourth,2,4,1,0,2
-302,The First part of King Henry the Fourth,3,1,2,0,2
-303,The First part of King Henry the Fourth,3,2,1,0,2
-304,The First part of King Henry the Fourth,4,1,2,1,1
-305,The First part of King Henry the Fourth,4,2,0,0,1
-306,The First part of King Henry the Fourth,4,3,0,1,1
-307,The First part of King Henry the Fourth,4,4,0,1,1
-308,The First part of King Henry the Fourth,5,1,2,0,1
-309,The First part of King Henry the Fourth,5,2,0,1,1
-310,The First part of King Henry the Fourth,5,3,0,0,1
-311,The First part of King Henry the Fourth,5,4,2,0,2
-312,The First part of King Henry the Fourth,5,5,0,1,1
-313,The Second part of King Henry the Fourth,0,0,0,1,1
-314,The Second part of King Henry the Fourth,1,1,2,1,1
-315,The Second part of King Henry the Fourth,1,2,2,0,0
-316,The Second part of King Henry the Fourth,1,3,0,1,1
-317,The Second part of King Henry the Fourth,2,1,2,0,2
-318,The Second part of King Henry the Fourth,2,2,2,0,1
-319,The Second part of King Henry the Fourth,2,3,0,1,1
-320,The Second part of King Henry the Fourth,2,4,1,0,2
-321,The Second part of King Henry the Fourth,3,1,0,1,1
-322,The Second part of King Henry the Fourth,3,2,1,0,0
-323,The Second part of King Henry the Fourth,4,1,2,1,1
-324,The Second part of King Henry the Fourth,4,2,2,1,1
-325,The Second part of King Henry the Fourth,4,3,2,0,1
-326,The Second part of King Henry the Fourth,4,4,2,1,1
-327,The Second part of King Henry the Fourth,4,5,2,0,1
-328,The Second part of King Henry the Fourth,5,1,0,0,0
-329,The Second part of King Henry the Fourth,5,2,2,1,1
-330,The Second part of King Henry the Fourth,5,3,2,0,1
-331,The Second part of King Henry the Fourth,5,4,0,0,1
-332,The Second part of King Henry the Fourth,5,5,2,0,1
-333,The Life of King Henry the Fifth,1,0,0,1,1
-334,The Life of King Henry the Fifth,1,1,0,1,1
-335,The Life of King Henry the Fifth,1,2,2,1,1
-336,The Life of King Henry the Fifth,2,0,0,1,1
-337,The Life of King Henry the Fifth,2,1,2,0,1
-338,The Life of King Henry the Fifth,2,2,2,1,1
-339,The Life of King Henry the Fifth,2,3,0,0,1
-340,The Life of King Henry the Fifth,2,4,2,1,1
-341,The Life of King Henry the Fifth,3,0,0,1,1
-342,The Life of King Henry the Fifth,3,1,0,1,1
-343,The Life of King Henry the Fifth,3,2,2,0,1
-344,The Life of King Henry the Fifth,3,3,0,1,1
-345,The Life of King Henry the Fifth,3,4,0,0,1
-346,The Life of King Henry the Fifth,3,5,0,1,1
-347,The Life of King Henry the Fifth,3,6,2,0,1
-348,The Life of King Henry the Fifth,3,7,2,0,1
-349,The Life of King Henry the Fifth,4,0,0,1,1
-350,The Life of King Henry the Fifth,4,1,1,0,1
-351,The Life of King Henry the Fifth,4,2,0,0,1
-352,The Life of King Henry the Fifth,4,3,2,1,1
-353,The Life of King Henry the Fifth,4,4,0,0,1
-354,The Life of King Henry the Fifth,4,5,0,0,1
-355,The Life of King Henry the Fifth,4,6,0,1,1
-356,The Life of King Henry the Fifth,4,7,2,0,1
-357,The Life of King Henry the Fifth,4,8,2,0,2
-358,The Life of King Henry the Fifth,5,0,0,1,1
-359,The Life of King Henry the Fifth,5,1,0,0,1
-360,The Life of King Henry the Fifth,5,2,1,0,1
-361,The First part of King Henry the Sixth,1,1,2,0,1
-362,The First part of King Henry the Sixth,1,2,2,0,1
-363,The First part of King Henry the Sixth,1,3,0,0,1
-364,The First part of King Henry the Sixth,1,4,0,0,1
-365,The First part of King Henry the Sixth,1,5,0,1,1
-366,The First part of King Henry the Sixth,1,6,0,1,1
-367,The First part of King Henry the Sixth,2,1,0,0,1
-368,The First part of King Henry the Sixth,2,2,0,1,1
-369,The First part of King Henry the Sixth,2,3,0,0,1
-370,The First part of King Henry the Sixth,2,4,2,0,1
-371,The First part of King Henry the Sixth,2,5,0,1,1
-372,The First part of King Henry the Sixth,3,1,2,0,1
-373,The First part of King Henry the Sixth,3,2,2,0,1
-374,The First part of King Henry the Sixth,3,3,0,1,1
-375,The First part of King Henry the Sixth,3,4,0,1,1
-376,The First part of King Henry the Sixth,4,1,2,1,1
-377,The First part of King Henry the Sixth,4,2,0,1,1
-378,The First part of King Henry the Sixth,4,3,0,1,1
-379,The First part of King Henry the Sixth,4,4,0,1,1
-380,The First part of King Henry the Sixth,4,5,0,1,1
-381,The First part of King Henry the Sixth,4,6,0,1,1
-382,The First part of King Henry the Sixth,4,7,0,1,1
-383,The First part of King Henry the Sixth,5,1,0,1,1
-384,The First part of King Henry the Sixth,5,2,0,1,1
-385,The First part of King Henry the Sixth,5,3,2,0,1
-386,The First part of King Henry the Sixth,5,4,2,0,1
-387,The First part of King Henry the Sixth,5,5,0,1,1
-388,The Second part of King Henry the Sixth,1,1,2,1,1
-389,The Second part of King Henry the Sixth,1,2,0,0,1
-390,The Second part of King Henry the Sixth,1,3,2,0,1
-391,The Second part of King Henry the Sixth,1,4,0,0,1
-392,The Second part of King Henry the Sixth,2,1,2,0,1
-393,The Second part of King Henry the Sixth,2,2,0,1,1
-394,The Second part of King Henry the Sixth,2,3,0,0,1
-395,The Second part of King Henry the Sixth,2,4,0,1,1
-396,The Second part of King Henry the Sixth,3,1,1,1,1
-397,The Second part of King Henry the Sixth,3,2,1,0,1
-398,The Second part of King Henry the Sixth,3,3,0,0,1
-399,The Second part of King Henry the Sixth,4,1,2,0,1
-400,The Second part of King Henry the Sixth,4,2,2,0,1
-401,The Second part of King Henry the Sixth,4,3,0,0,1
-402,The Second part of King Henry the Sixth,4,4,0,0,1
-403,The Second part of King Henry the Sixth,4,5,0,1,1
-404,The Second part of King Henry the Sixth,4,6,0,0,1
-405,The Second part of King Henry the Sixth,4,7,2,0,1
-406,The Second part of King Henry the Sixth,4,8,0,0,1
-407,The Second part of King Henry the Sixth,4,9,0,1,1
-408,The Second part of King Henry the Sixth,4,10,0,1,1
-409,The Second part of King Henry the Sixth,5,1,2,0,1
-410,The Second part of King Henry the Sixth,5,2,0,0,1
-411,The Second part of King Henry the Sixth,5,3,0,1,1
-412,The Third part of King Henry the Sixth,1,1,2,0,1
-413,The Third part of King Henry the Sixth,1,2,0,0,1
-414,The Third part of King Henry the Sixth,1,3,0,0,1
-415,The Third part of King Henry the Sixth,1,4,2,0,1
-416,The Third part of King Henry the Sixth,2,1,2,1,1
-417,The Third part of King Henry the Sixth,2,2,2,1,1
-418,The Third part of King Henry the Sixth,2,3,0,1,1
-419,The Third part of King Henry the Sixth,2,4,0,1,1
-420,The Third part of King Henry the Sixth,2,5,2,0,1
-421,The Third part of King Henry the Sixth,2,6,0,1,1
-422,The Third part of King Henry the Sixth,3,1,2,1,1
-423,The Third part of King Henry the Sixth,3,2,2,0,1
-424,The Third part of King Henry the Sixth,3,3,2,0,1
-425,The Third part of King Henry the Sixth,4,1,2,0,1
-426,The Third part of King Henry the Sixth,4,2,0,1,1
-427,The Third part of King Henry the Sixth,4,3,0,0,1
-428,The Third part of King Henry the Sixth,4,4,0,1,1
-429,The Third part of King Henry the Sixth,4,5,0,0,1
-430,The Third part of King Henry the Sixth,4,6,0,1,1
-431,The Third part of King Henry the Sixth,4,7,0,1,1
-432,The Third part of King Henry the Sixth,4,8,0,1,1
-433,The Third part of King Henry the Sixth,5,1,0,1,1
-434,The Third part of King Henry the Sixth,5,2,0,1,1
-435,The Third part of King Henry the Sixth,5,3,0,1,1
-436,The Third part of King Henry the Sixth,5,4,0,1,1
-437,The Third part of King Henry the Sixth,5,5,0,1,1
-438,The Third part of King Henry the Sixth,5,6,0,1,1
-439,The Third part of King Henry the Sixth,5,7,0,1,1
-440,The Life of King Henry the Eighth,1,0,0,1,1
-441,The Life of King Henry the Eighth,1,1,2,0,1
-442,The Life of King Henry the Eighth,1,2,2,0,1
-443,The Life of King Henry the Eighth,1,3,0,0,1
-444,The Life of King Henry the Eighth,1,4,2,0,1
-445,The Life of King Henry the Eighth,2,1,2,0,1
-446,The Life of King Henry the Eighth,2,2,2,0,1
-447,The Life of King Henry the Eighth,2,3,2,0,1
-448,The Life of King Henry the Eighth,2,4,2,1,1
-449,The Life of King Henry the Eighth,3,1,2,0,1
-450,The Life of King Henry the Eighth,3,2,1,0,1
-451,The Life of King Henry the Eighth,4,1,2,0,1
-452,The Life of King Henry the Eighth,4,2,2,0,1
-453,The Life of King Henry the Eighth,5,1,2,0,1
-454,The Life of King Henry the Eighth,5,2,0,0,1
-455,The Life of King Henry the Eighth,5,3,2,0,1
-456,The Life of King Henry the Eighth,5,4,0,0,1
-457,The Life of King Henry the Eighth,5,5,0,1,1
-458,The Life and Death of King John,1,1,2,0,1
-459,The Life and Death of King John,2,1,1,1,1
-460,The Life and Death of King John,3,1,1,0,1
-461,The Life and Death of King John,3,2,0,1,1
-462,The Life and Death of King John,3,3,0,1,1
-463,The Life and Death of King John,3,4,2,1,1
-464,The Life and Death of King John,4,1,2,0,1
-465,The Life and Death of King John,4,2,2,1,1
-466,The Life and Death of King John,4,3,2,0,1
-467,The Life and Death of King John,5,1,0,1,1
-468,The Life and Death of King John,5,2,2,1,1
-469,The Life and Death of King John,5,3,0,1,1
-470,The Life and Death of King John,5,4,0,1,1
-471,The Life and Death of King John,5,5,0,0,1
-472,The Life and Death of King John,5,6,0,0,1
-473,The Life and Death of King John,5,7,2,1,1
-474,The Life and Death of Richard the Second,1,1,2,1,1
-475,The Life and Death of Richard the Second,1,2,0,1,1
-476,The Life and Death of Richard the Second,1,3,2,1,1
-477,The Life and Death of Richard the Second,1,4,0,1,1
-478,The Life and Death of Richard the Second,2,1,2,1,1
-479,The Life and Death of Richard the Second,2,2,2,0,1
-480,The Life and Death of Richard the Second,2,3,2,1,1
-481,The Life and Death of Richard the Second,2,4,0,1,1
-482,The Life and Death of Richard the Second,3,1,0,1,1
-483,The Life and Death of Richard the Second,3,2,2,1,1
-484,The Life and Death of Richard the Second,3,3,2,1,1
-485,The Life and Death of Richard the Second,3,4,0,1,1
-486,The Life and Death of Richard the Second,4,1,1,0,1
-487,The Life and Death of Richard the Second,5,1,0,1,1
-488,The Life and Death of Richard the Second,5,2,2,0,2
-489,The Life and Death of Richard the Second,5,3,2,0,1
-490,The Life and Death of Richard the Second,5,4,0,0,1
-491,The Life and Death of Richard the Second,5,5,2,1,1
-492,The Life and Death of Richard the Second,5,6,0,1,1
-493,The Life and Death of Richard the Third,1,1,2,1,1
-494,The Life and Death of Richard the Third,1,2,2,0,1
-495,The Life and Death of Richard the Third,1,3,1,0,1
-496,The Life and Death of Richard the Third,1,4,1,0,1
-497,The Life and Death of Richard the Third,2,1,2,0,1
-498,The Life and Death of Richard the Third,2,2,2,0,1
-499,The Life and Death of Richard the Third,2,3,0,0,1
-500,The Life and Death of Richard the Third,2,4,0,0,1
-501,The Life and Death of Richard the Third,3,1,2,0,1
-502,The Life and Death of Richard the Third,3,2,2,0,0
-503,The Life and Death of Richard the Third,3,3,0,1,1
-504,The Life and Death of Richard the Third,3,4,2,1,1
-505,The Life and Death of Richard the Third,3,5,0,1,1
-506,The Life and Death of Richard the Third,3,6,0,0,1
-507,The Life and Death of Richard the Third,3,7,2,1,1
-508,The Life and Death of Richard the Third,4,1,0,0,1
-509,The Life and Death of Richard the Third,4,2,2,0,1
-510,The Life and Death of Richard the Third,4,3,0,1,1
-511,The Life and Death of Richard the Third,4,4,1,0,1
-512,The Life and Death of Richard the Third,4,5,0,1,1
-513,The Life and Death of Richard the Third,5,1,0,1,1
-514,The Life and Death of Richard the Third,5,2,0,1,1
-515,The Life and Death of Richard the Third,5,3,1,0,1
-516,The Life and Death of Richard the Third,5,4,0,0,1
-517,The Life and Death of Richard the Third,5,5,0,0,1
-518,Antony and Cleopatra,1,1,0,0,1
-519,Antony and Cleopatra,1,2,2,0,1
-520,Antony and Cleopatra,1,3,2,0,1
-521,Antony and Cleopatra,1,4,0,1,1
-522,Antony and Cleopatra,1,5,0,0,1
-523,Antony and Cleopatra,2,1,0,0,1
-524,Antony and Cleopatra,2,2,2,0,1
-525,Antony and Cleopatra,2,3,0,0,1
-526,Antony and Cleopatra,2,4,0,0,1
-527,Antony and Cleopatra,2,5,2,0,1
-528,Antony and Cleopatra,2,6,2,0,1
-529,Antony and Cleopatra,2,7,2,0,1
-530,Antony and Cleopatra,3,1,0,0,1
-531,Antony and Cleopatra,3,2,0,0,1
-532,Antony and Cleopatra,3,3,0,0,1
-533,Antony and Cleopatra,3,4,0,1,1
-534,Antony and Cleopatra,3,5,0,0,1
-535,Antony and Cleopatra,3,6,0,0,1
-536,Antony and Cleopatra,3,7,0,0,1
-537,Antony and Cleopatra,3,8,0,0,1
-538,Antony and Cleopatra,3,9,0,1,1
-539,Antony and Cleopatra,3,10,0,0,1
-540,Antony and Cleopatra,3,11,0,0,1
-541,Antony and Cleopatra,3,12,0,0,1
-542,Antony and Cleopatra,3,13,2,0,1
-543,Antony and Cleopatra,4,1,0,0,1
-544,Antony and Cleopatra,4,2,0,0,1
-545,Antony and Cleopatra,4,3,0,0,1
-546,Antony and Cleopatra,4,4,0,0,1
-547,Antony and Cleopatra,4,5,0,0,1
-548,Antony and Cleopatra,4,6,0,0,1
-549,Antony and Cleopatra,4,7,0,0,1
-550,Antony and Cleopatra,4,8,0,0,1
-551,Antony and Cleopatra,4,9,0,0,1
-552,Antony and Cleopatra,4,10,0,1,1
-553,Antony and Cleopatra,4,11,0,1,1
-554,Antony and Cleopatra,4,12,0,0,1
-555,Antony and Cleopatra,4,13,0,0,1
-556,Antony and Cleopatra,4,14,2,0,1
-557,Antony and Cleopatra,4,15,0,0,1
-558,Antony and Cleopatra,5,1,0,0,1
-559,Antony and Cleopatra,5,2,1,0,1
-560,The Tragedy of Coriolanus,1,1,2,0,1
-561,The Tragedy of Coriolanus,1,2,0,0,1
-562,The Tragedy of Coriolanus,1,3,2,0,0
-563,The Tragedy of Coriolanus,1,4,0,0,1
-564,The Tragedy of Coriolanus,1,5,0,0,1
-565,The Tragedy of Coriolanus,1,6,0,0,1
-566,The Tragedy of Coriolanus,1,7,0,0,1
-567,The Tragedy of Coriolanus,1,8,0,0,1
-568,The Tragedy of Coriolanus,1,9,0,0,1
-569,The Tragedy of Coriolanus,1,10,0,0,1
-570,The Tragedy of Coriolanus,2,1,2,0,2
-571,The Tragedy of Coriolanus,2,2,2,0,1
-572,The Tragedy of Coriolanus,2,3,2,0,1
-573,The Tragedy of Coriolanus,3,1,1,0,1
-574,The Tragedy of Coriolanus,3,2,2,0,1
-575,The Tragedy of Coriolanus,3,3,2,0,1
-576,The Tragedy of Coriolanus,4,1,0,0,1
-577,The Tragedy of Coriolanus,4,2,0,0,1
-578,The Tragedy of Coriolanus,4,3,0,0,1
-579,The Tragedy of Coriolanus,4,4,0,0,1
-580,The Tragedy of Coriolanus,4,5,2,0,1
-581,The Tragedy of Coriolanus,4,6,2,0,1
-582,The Tragedy of Coriolanus,4,7,0,1,1
-583,The Tragedy of Coriolanus,5,1,0,0,1
-584,The Tragedy of Coriolanus,5,2,2,0,1
-585,The Tragedy of Coriolanus,5,3,2,0,1
-586,The Tragedy of Coriolanus,5,4,0,0,1
-587,The Tragedy of Coriolanus,5,5,0,0,1
-588,The Tragedy of Coriolanus,5,6,2,0,1
-589,"The Tragedy of Hamlet, Prince of Denmark",1,1,2,0,1
-590,"The Tragedy of Hamlet, Prince of Denmark",1,2,2,0,0
-591,"The Tragedy of Hamlet, Prince of Denmark",1,3,2,1,1
-592,"The Tragedy of Hamlet, Prince of Denmark",1,4,0,0,1
-593,"The Tragedy of Hamlet, Prince of Denmark",1,5,2,0,1
-594,"The Tragedy of Hamlet, Prince of Denmark",2,1,2,0,1
-595,"The Tragedy of Hamlet, Prince of Denmark",2,2,1,0,0
-596,"The Tragedy of Hamlet, Prince of Denmark",3,1,2,0,1
-597,"The Tragedy of Hamlet, Prince of Denmark",3,2,1,0,1
-598,"The Tragedy of Hamlet, Prince of Denmark",3,3,0,0,1
-599,"The Tragedy of Hamlet, Prince of Denmark",3,4,2,0,1
-600,"The Tragedy of Hamlet, Prince of Denmark",4,1,0,0,1
-601,"The Tragedy of Hamlet, Prince of Denmark",4,2,0,0,1
-602,"The Tragedy of Hamlet, Prince of Denmark",4,3,0,0,1
-603,"The Tragedy of Hamlet, Prince of Denmark",4,4,0,1,1
-604,"The Tragedy of Hamlet, Prince of Denmark",4,5,2,0,1
-605,"The Tragedy of Hamlet, Prince of Denmark",4,6,0,0,1
-606,"The Tragedy of Hamlet, Prince of Denmark",4,7,2,0,1
-607,"The Tragedy of Hamlet, Prince of Denmark",5,1,1,0,1
-608,"The Tragedy of Hamlet, Prince of Denmark",5,2,1,0,1
-609,The Life and Death of Julius Caesar,1,1,0,0,1
-610,The Life and Death of Julius Caesar,1,2,1,0,2
-611,The Life and Death of Julius Caesar,1,3,2,1,1
-612,The Life and Death of Julius Caesar,2,1,1,0,1
-613,The Life and Death of Julius Caesar,2,2,2,0,1
-614,The Life and Death of Julius Caesar,2,3,0,0,1
-615,The Life and Death of Julius Caesar,2,4,0,0,1
-616,The Life and Death of Julius Caesar,3,1,2,0,1
-617,The Life and Death of Julius Caesar,3,2,1,0,1
-618,The Life and Death of Julius Caesar,3,3,0,0,1
-619,The Life and Death of Julius Caesar,4,1,0,1,1
-620,The Life and Death of Julius Caesar,4,2,0,0,1
-621,The Life and Death of Julius Caesar,4,3,1,0,2
-622,The Life and Death of Julius Caesar,5,1,2,0,1
-623,The Life and Death of Julius Caesar,5,2,0,1,1
-624,The Life and Death of Julius Caesar,5,3,0,0,1
-625,The Life and Death of Julius Caesar,5,4,0,0,1
-626,The Life and Death of Julius Caesar,5,5,0,0,1
-627,King Lear,1,1,1,0,1
-628,King Lear,1,2,2,0,1
-629,King Lear,1,3,0,0,1
-630,King Lear,1,4,1,0,2
-631,King Lear,1,5,0,0,1
-632,King Lear,2,1,2,0,1
-633,King Lear,2,2,2,0,2
-634,King Lear,2,3,0,1,1
-635,King Lear,2,4,1,0,0
-636,King Lear,3,1,0,1,1
-637,King Lear,3,2,0,0,1
-638,King Lear,3,3,0,1,1
-639,King Lear,3,4,2,0,1
-640,King Lear,3,5,0,0,1
-641,King Lear,3,6,0,0,1
-642,King Lear,3,7,0,0,1
-643,King Lear,4,1,0,0,1
-644,King Lear,4,2,0,0,1
-645,King Lear,4,3,0,0,1
-646,King Lear,4,4,0,0,1
-647,King Lear,4,5,0,0,1
-648,King Lear,4,6,2,0,1
-649,King Lear,4,7,0,0,1
-650,King Lear,5,1,0,0,1
-651,King Lear,5,2,0,0,1
-652,King Lear,5,3,1,0,1
-653,The Tragedy of Macbeth,1,1,0,0,1
-654,The Tragedy of Macbeth,1,2,0,0,1
-655,The Tragedy of Macbeth,1,3,2,0,1
-656,The Tragedy of Macbeth,1,4,0,1,1
-657,The Tragedy of Macbeth,1,5,0,0,1
-658,The Tragedy of Macbeth,1,6,0,0,1
-659,The Tragedy of Macbeth,1,7,0,0,1
-660,The Tragedy of Macbeth,2,1,0,0,1
-661,The Tragedy of Macbeth,2,2,0,0,1
-662,The Tragedy of Macbeth,2,3,2,0,1
-663,The Tragedy of Macbeth,2,4,0,0,1
-664,The Tragedy of Macbeth,3,1,2,0,1
-665,The Tragedy of Macbeth,3,2,0,0,1
-666,The Tragedy of Macbeth,3,3,0,0,1
-667,The Tragedy of Macbeth,3,4,2,0,1
-668,The Tragedy of Macbeth,3,5,0,1,1
-669,The Tragedy of Macbeth,3,6,0,0,1
-670,The Tragedy of Macbeth,4,1,2,0,1
-671,The Tragedy of Macbeth,4,2,0,0,1
-672,The Tragedy of Macbeth,4,3,2,0,1
-673,The Tragedy of Macbeth,5,1,0,0,1
-674,The Tragedy of Macbeth,5,2,0,0,1
-675,The Tragedy of Macbeth,5,3,0,0,1
-676,The Tragedy of Macbeth,5,4,0,1,1
-677,The Tragedy of Macbeth,5,5,0,0,1
-678,The Tragedy of Macbeth,5,6,0,1,1
-679,The Tragedy of Macbeth,5,7,0,0,1
-680,The Tragedy of Macbeth,5,8,0,0,1
-681,"Othello, the Moore of Venice",1,1,2,0,1
-682,"Othello, the Moore of Venice",1,2,0,0,1
-683,"Othello, the Moore of Venice",1,3,1,0,2
-684,"Othello, the Moore of Venice",2,1,1,0,1
-685,"Othello, the Moore of Venice",2,2,0,1,1
-686,"Othello, the Moore of Venice",2,3,1,0,2
-687,"Othello, the Moore of Venice",3,1,0,0,1
-688,"Othello, the Moore of Venice",3,2,0,0,1
-689,"Othello, the Moore of Venice",3,3,1,0,2
-690,"Othello, the Moore of Venice",3,4,2,0,1
-691,"Othello, the Moore of Venice",4,1,1,0,0
-692,"Othello, the Moore of Venice",4,2,2,0,2
-693,"Othello, the Moore of Venice",4,3,2,0,1
-694,"Othello, the Moore of Venice",5,1,2,0,0
-695,"Othello, the Moore of Venice",5,2,1,0,2
-696,Romeo and Juliet,1,0,0,1,1
-697,Romeo and Juliet,1,1,2,0,1
-698,Romeo and Juliet,1,2,0,0,1
-699,Romeo and Juliet,1,3,0,0,1
-700,Romeo and Juliet,1,4,0,1,1
-701,Romeo and Juliet,1,5,2,0,1
-702,Romeo and Juliet,2,0,0,1,1
-703,Romeo and Juliet,2,1,0,0,1
-704,Romeo and Juliet,2,2,2,0,1
-705,Romeo and Juliet,2,3,0,1,1
-706,Romeo and Juliet,2,4,2,0,1
-707,Romeo and Juliet,2,5,0,0,1
-708,Romeo and Juliet,2,6,0,1,1
-709,Romeo and Juliet,3,1,2,0,1
-710,Romeo and Juliet,3,2,2,0,1
-711,Romeo and Juliet,3,3,2,0,1
-712,Romeo and Juliet,3,4,0,0,1
-713,Romeo and Juliet,3,5,2,0,1
-714,Romeo and Juliet,4,1,2,1,1
-715,Romeo and Juliet,4,2,0,0,1
-716,Romeo and Juliet,4,3,0,0,1
-717,Romeo and Juliet,4,4,0,0,1
-718,Romeo and Juliet,4,5,2,0,1
-719,Romeo and Juliet,5,1,0,0,1
-720,Romeo and Juliet,5,2,0,1,1
-721,Romeo and Juliet,5,3,1,0,1
-722,Timon of Athens,1,1,2,0,1
-723,Timon of Athens,1,2,2,0,1
-724,Timon of Athens,2,1,0,0,1
-725,Timon of Athens,2,2,2,0,1
-726,Timon of Athens,3,1,0,0,1
-727,Timon of Athens,3,2,0,0,1
-728,Timon of Athens,3,3,0,0,1
-729,Timon of Athens,3,4,2,0,1
-730,Timon of Athens,3,5,0,0,1
-731,Timon of Athens,3,6,2,0,1
-732,Timon of Athens,4,1,0,0,1
-733,Timon of Athens,4,2,0,0,1
-734,Timon of Athens,4,3,1,0,1
-735,Timon of Athens,5,1,2,0,1
-736,Timon of Athens,5,2,0,1,1
-737,Timon of Athens,5,3,0,0,1
-738,Timon of Athens,5,4,0,1,1
-739,Titus Andronicus,1,1,1,0,1
-740,Titus Andronicus,2,1,2,0,1
-741,Titus Andronicus,2,2,0,1,1
-742,Titus Andronicus,2,3,1,0,1
-743,Titus Andronicus,2,4,0,1,1
-744,Titus Andronicus,3,1,1,0,1
-745,Titus Andronicus,3,2,0,1,1
-746,Titus Andronicus,4,1,2,0,1
-747,Titus Andronicus,4,2,2,0,1
-748,Titus Andronicus,4,3,2,0,1
-749,Titus Andronicus,4,4,0,0,1
-750,Titus Andronicus,5,1,2,1,1
-751,Titus Andronicus,5,2,2,1,1
-752,Titus Andronicus,5,3,2,1,1
-753,Sonnets,1,1,0,1,1
-754,Sonnets,1,2,0,1,1
-755,Sonnets,1,3,0,1,1
-756,Sonnets,1,4,0,0,1
-757,Sonnets,1,5,0,2,1
-758,Sonnets,1,6,0,1,1
-759,Sonnets,1,7,0,1,1
-760,Sonnets,1,8,0,1,1
-761,Sonnets,1,9,0,1,1
-762,Sonnets,1,10,0,1,1
-763,Sonnets,1,11,0,1,1
-764,Sonnets,1,12,0,2,1
-765,Sonnets,1,13,0,0,1
-766,Sonnets,1,14,0,2,1
-767,Sonnets,1,15,0,2,1
-768,Sonnets,1,16,0,1,1
-769,Sonnets,1,17,0,1,1
-770,Sonnets,1,18,0,1,1
-771,Sonnets,1,19,0,2,1
-772,Sonnets,1,20,0,1,1
-773,Sonnets,1,21,0,1,1
-774,Sonnets,1,22,0,1,1
-775,Sonnets,1,23,0,1,1
-776,Sonnets,1,24,0,1,1
-777,Sonnets,1,25,0,1,1
-778,Sonnets,1,26,0,2,1
-779,Sonnets,1,27,0,1,1
-780,Sonnets,1,28,0,0,1
-781,Sonnets,1,29,0,2,1
-782,Sonnets,1,30,0,1,1
-783,Sonnets,1,31,0,1,1
-784,Sonnets,1,32,0,1,1
-785,Sonnets,1,33,0,1,1
-786,Sonnets,1,34,0,1,1
-787,Sonnets,1,35,0,1,1
-788,Sonnets,1,36,0,1,1
-789,Sonnets,1,37,0,1,1
-790,Sonnets,1,38,0,1,1
-791,Sonnets,1,39,0,1,1
-792,Sonnets,1,40,0,1,1
-793,Sonnets,1,41,0,1,1
-794,Sonnets,1,42,0,1,1
-795,Sonnets,1,43,0,1,1
-796,Sonnets,1,44,0,1,1
-797,Sonnets,1,45,0,2,1
-798,Sonnets,1,46,0,1,1
-799,Sonnets,1,47,0,2,1
-800,Sonnets,1,48,0,1,1
-801,Sonnets,1,49,0,2,1
-802,Sonnets,1,50,0,1,1
-803,Sonnets,1,51,0,1,1
-804,Sonnets,1,52,0,1,1
-805,Sonnets,1,53,0,1,1
-806,Sonnets,1,54,0,1,1
-807,Sonnets,1,55,0,1,1
-808,Sonnets,1,56,0,2,1
-809,Sonnets,1,57,0,1,1
-810,Sonnets,1,58,0,1,1
-811,Sonnets,1,59,0,1,1
-812,Sonnets,1,60,0,1,1
-813,Sonnets,1,61,0,1,1
-814,Sonnets,1,62,0,1,1
-815,Sonnets,1,63,0,2,1
-816,Sonnets,1,64,0,1,1
-817,Sonnets,1,65,0,0,1
-818,Sonnets,1,66,0,2,1
-819,Sonnets,1,67,0,0,1
-820,Sonnets,1,68,0,2,1
-821,Sonnets,1,69,0,1,1
-822,Sonnets,1,70,0,1,1
-823,Sonnets,1,71,0,1,1
-824,Sonnets,1,72,0,1,1
-825,Sonnets,1,73,0,1,1
-826,Sonnets,1,74,0,1,1
-827,Sonnets,1,75,0,1,1
-828,Sonnets,1,76,0,1,1
-829,Sonnets,1,77,0,1,1
-830,Sonnets,1,78,0,1,1
-831,Sonnets,1,79,0,1,1
-832,Sonnets,1,80,0,1,1
-833,Sonnets,1,81,0,1,1
-834,Sonnets,1,82,0,2,1
-835,Sonnets,1,83,0,1,1
-836,Sonnets,1,84,0,1,1
-837,Sonnets,1,85,0,1,1
-838,Sonnets,1,86,0,1,1
-839,Sonnets,1,87,0,0,1
-840,Sonnets,1,88,0,1,1
-841,Sonnets,1,89,0,1,1
-842,Sonnets,1,90,0,2,1
-843,Sonnets,1,91,0,2,1
-844,Sonnets,1,92,0,1,1
-845,Sonnets,1,93,0,1,1
-846,Sonnets,1,94,0,1,1
-847,Sonnets,1,95,0,1,1
-848,Sonnets,1,96,0,1,1
-849,Sonnets,1,97,0,1,1
-850,Sonnets,1,98,0,1,1
-851,Sonnets,1,99,0,1,1
-852,Sonnets,1,100,0,1,1
-853,Sonnets,1,101,0,1,1
-854,Sonnets,1,102,0,1,1
-855,Sonnets,1,103,0,1,1
-856,Sonnets,1,104,0,1,1
-857,Sonnets,1,105,0,1,1
-858,Sonnets,1,106,0,1,1
-859,Sonnets,1,107,0,1,1
-860,Sonnets,1,108,0,1,1
-861,Sonnets,1,109,0,1,1
-862,Sonnets,1,110,0,1,1
-863,Sonnets,1,111,0,1,1
-864,Sonnets,1,112,0,1,1
-865,Sonnets,1,113,0,2,1
-866,Sonnets,1,114,0,1,1
-867,Sonnets,1,115,0,1,1
-868,Sonnets,1,116,0,1,1
-869,Sonnets,1,117,0,1,1
-870,Sonnets,1,118,0,1,1
-871,Sonnets,1,119,0,0,1
-872,Sonnets,1,120,0,1,1
-873,Sonnets,1,121,0,1,1
-874,Sonnets,1,122,0,1,1
-875,Sonnets,1,123,0,1,1
-876,Sonnets,1,124,0,1,1
-877,Sonnets,1,125,0,0,1
-878,Sonnets,1,126,0,1,1
-879,Sonnets,1,127,0,2,1
-880,Sonnets,1,128,0,1,1
-881,Sonnets,1,129,0,2,1
-882,Sonnets,1,130,0,1,1
-883,Sonnets,1,131,0,1,1
-884,Sonnets,1,132,0,1,1
-885,Sonnets,1,133,0,1,1
-886,Sonnets,1,134,0,1,1
-887,Sonnets,1,135,0,1,1
-888,Sonnets,1,136,0,1,1
-889,Sonnets,1,137,0,1,1
-890,Sonnets,1,138,0,1,1
-891,Sonnets,1,139,0,1,1
-892,Sonnets,1,140,0,2,1
-893,Sonnets,1,141,0,2,1
-894,Sonnets,1,142,0,1,1
-895,Sonnets,1,143,0,1,1
-896,Sonnets,1,144,0,1,1
-897,Sonnets,1,145,0,2,1
-898,Sonnets,1,146,0,1,1
-899,Sonnets,1,147,0,1,1
-900,Sonnets,1,148,0,0,1
-901,Sonnets,1,149,0,0,1
-902,Sonnets,1,150,0,0,1
-903,Sonnets,1,151,0,1,1
-904,Sonnets,1,152,0,1,1
-905,Sonnets,1,153,0,2,1
-906,Sonnets,1,154,0,1,1
+0,All's Well That Ends Well,1,1,2,1,1
+1,All's Well That Ends Well,1,2,0,2,1
+2,All's Well That Ends Well,1,3,2,1,2
+3,All's Well That Ends Well,2,1,2,1,1
+4,All's Well That Ends Well,2,2,0,1,1
+5,All's Well That Ends Well,2,3,1,1,2
+6,All's Well That Ends Well,2,4,0,1,1
+7,All's Well That Ends Well,2,5,0,1,1
+8,All's Well That Ends Well,3,1,0,2,1
+9,All's Well That Ends Well,3,2,2,1,1
+10,All's Well That Ends Well,3,3,0,2,1
+11,All's Well That Ends Well,3,4,0,2,1
+12,All's Well That Ends Well,3,5,0,1,1
+13,All's Well That Ends Well,3,6,2,1,1
+14,All's Well That Ends Well,3,7,0,2,1
+15,All's Well That Ends Well,4,1,0,1,1
+16,All's Well That Ends Well,4,2,0,1,1
+17,All's Well That Ends Well,4,3,1,1,1
+18,All's Well That Ends Well,4,4,0,2,1
+19,All's Well That Ends Well,4,5,2,1,1
+20,All's Well That Ends Well,5,1,0,1,1
+21,All's Well That Ends Well,5,2,0,1,1
+22,All's Well That Ends Well,5,3,1,1,1
+23,As You Like It,1,1,2,1,1
+24,As You Like It,1,2,1,1,2
+25,As You Like It,1,3,2,1,1
+26,As You Like It,2,1,0,2,1
+27,As You Like It,2,2,0,2,1
+28,As You Like It,2,3,0,1,1
+29,As You Like It,2,4,0,1,1
+30,As You Like It,2,5,0,1,1
+31,As You Like It,2,6,0,1,1
+32,As You Like It,2,7,2,1,1
+33,As You Like It,3,1,0,2,1
+34,As You Like It,3,2,1,1,2
+35,As You Like It,3,3,2,1,1
+36,As You Like It,3,4,0,1,1
+37,As You Like It,3,5,2,1,1
+38,As You Like It,4,1,2,1,2
+39,As You Like It,4,2,0,1,1
+40,As You Like It,4,3,2,1,1
+41,As You Like It,5,1,0,1,1
+42,As You Like It,5,2,2,1,1
+43,As You Like It,5,3,0,1,1
+44,As You Like It,5,4,2,1,1
+45,The Comedy of Errors,1,1,2,2,1
+46,The Comedy of Errors,1,2,0,1,1
+47,The Comedy of Errors,2,1,2,1,1
+48,The Comedy of Errors,2,2,2,1,0
+49,The Comedy of Errors,3,1,2,1,1
+50,The Comedy of Errors,3,2,2,1,2
+51,The Comedy of Errors,4,1,2,1,1
+52,The Comedy of Errors,4,2,0,1,1
+53,The Comedy of Errors,4,3,0,1,1
+54,The Comedy of Errors,4,4,2,1,1
+55,The Comedy of Errors,5,1,1,1,2
+56,Cymbeline,1,1,2,1,1
+57,Cymbeline,1,2,0,1,1
+58,Cymbeline,1,3,0,1,1
+59,Cymbeline,1,4,2,1,1
+60,Cymbeline,1,5,0,1,1
+61,Cymbeline,1,6,2,1,2
+62,Cymbeline,2,1,0,1,1
+63,Cymbeline,2,2,2,1,1
+64,Cymbeline,2,4,2,1,1
+65,Cymbeline,2,5,0,2,1
+66,Cymbeline,3,1,0,2,1
+67,Cymbeline,3,2,0,1,1
+68,Cymbeline,3,3,0,2,1
+69,Cymbeline,3,4,2,1,2
+70,Cymbeline,3,5,2,1,1
+71,Cymbeline,3,6,0,1,1
+72,Cymbeline,3,7,0,1,1
+73,Cymbeline,4,1,0,2,1
+74,Cymbeline,4,2,1,1,1
+75,Cymbeline,4,3,0,1,1
+76,Cymbeline,4,4,0,1,1
+77,Cymbeline,5,1,0,2,1
+78,Cymbeline,5,2,0,1,1
+79,Cymbeline,5,3,0,1,1
+80,Cymbeline,5,4,2,1,1
+81,Cymbeline,5,5,1,1,0
+82,Loves Labours Lost,1,1,1,1,1
+83,Loves Labours Lost,1,2,2,1,1
+84,Loves Labours Lost,2,1,2,1,1
+85,Loves Labours Lost,3,1,2,1,1
+86,Loves Labours Lost,4,1,2,1,1
+87,Loves Labours Lost,4,2,2,1,1
+88,Loves Labours Lost,4,3,1,1,1
+89,Loves Labours Lost,5,1,2,1,1
+90,Loves Labours Lost,5,2,1,1,0
+91,Measure for Measure,1,1,0,2,1
+92,Measure for Measure,1,2,2,1,2
+93,Measure for Measure,1,3,0,2,1
+94,Measure for Measure,1,4,0,1,1
+95,Measure for Measure,2,1,1,1,0
+96,Measure for Measure,2,2,2,1,2
+97,Measure for Measure,2,3,0,1,1
+98,Measure for Measure,2,4,2,1,1
+99,Measure for Measure,3,1,2,1,2
+100,Measure for Measure,3,2,2,1,1
+101,Measure for Measure,4,1,0,1,1
+102,Measure for Measure,4,2,2,1,1
+103,Measure for Measure,4,3,2,1,1
+104,Measure for Measure,4,4,0,1,1
+105,Measure for Measure,4,5,0,2,1
+106,Measure for Measure,4,6,0,1,1
+107,Measure for Measure,5,1,1,1,1
+108,The Merry Wives of Windsor,1,1,2,1,0
+109,The Merry Wives of Windsor,1,2,0,1,1
+110,The Merry Wives of Windsor,1,3,0,1,1
+111,The Merry Wives of Windsor,1,4,2,1,1
+112,The Merry Wives of Windsor,2,1,2,1,2
+113,The Merry Wives of Windsor,2,2,1,1,2
+114,The Merry Wives of Windsor,2,3,0,1,1
+115,The Merry Wives of Windsor,3,1,0,1,1
+116,The Merry Wives of Windsor,3,2,0,1,1
+117,The Merry Wives of Windsor,3,3,2,1,2
+118,The Merry Wives of Windsor,3,4,2,1,0
+119,The Merry Wives of Windsor,3,5,2,1,1
+120,The Merry Wives of Windsor,4,1,0,1,1
+121,The Merry Wives of Windsor,4,2,2,1,2
+122,The Merry Wives of Windsor,4,3,0,1,1
+123,The Merry Wives of Windsor,4,4,0,1,1
+124,The Merry Wives of Windsor,4,5,2,1,1
+125,The Merry Wives of Windsor,4,6,0,2,1
+126,The Merry Wives of Windsor,5,1,0,1,1
+127,The Merry Wives of Windsor,5,2,0,1,1
+128,The Merry Wives of Windsor,5,3,0,1,1
+129,The Merry Wives of Windsor,5,4,0,0,1
+130,The Merry Wives of Windsor,5,5,2,1,2
+131,The Merchant of Venice,1,1,1,1,1
+132,The Merchant of Venice,1,3,2,1,1
+133,The Merchant of Venice,2,1,0,2,1
+134,The Merchant of Venice,2,2,2,1,0
+135,The Merchant of Venice,2,3,0,1,1
+136,The Merchant of Venice,2,4,0,1,1
+137,The Merchant of Venice,2,5,0,1,1
+138,The Merchant of Venice,2,6,0,1,1
+139,The Merchant of Venice,2,7,0,1,1
+140,The Merchant of Venice,2,8,0,1,1
+141,The Merchant of Venice,2,9,0,1,1
+142,The Merchant of Venice,3,1,2,1,2
+143,The Merchant of Venice,3,2,1,1,2
+144,The Merchant of Venice,3,3,0,1,1
+145,The Merchant of Venice,3,4,0,2,0
+146,The Merchant of Venice,3,5,0,1,1
+147,The Merchant of Venice,4,1,1,1,2
+148,The Merchant of Venice,4,2,0,1,1
+149,The Merchant of Venice,5,1,1,1,1
+150,A Midsummer Night's Dream,1,1,2,2,1
+151,A Midsummer Night's Dream,1,2,0,1,1
+152,A Midsummer Night's Dream,2,1,2,2,1
+153,A Midsummer Night's Dream,2,2,2,1,1
+154,A Midsummer Night's Dream,3,1,2,1,1
+155,A Midsummer Night's Dream,3,2,1,1,2
+156,A Midsummer Night's Dream,4,1,2,1,1
+157,A Midsummer Night's Dream,4,2,0,1,1
+158,A Midsummer Night's Dream,5,1,1,1,1
+159,Much Ado About Nothing,1,1,1,1,1
+160,Much Ado About Nothing,1,2,0,1,1
+161,Much Ado About Nothing,1,3,0,1,1
+162,Much Ado About Nothing,2,1,1,1,2
+163,Much Ado About Nothing,2,2,0,1,1
+164,Much Ado About Nothing,2,3,1,1,2
+165,Much Ado About Nothing,3,1,2,2,1
+166,Much Ado About Nothing,3,2,2,1,1
+167,Much Ado About Nothing,3,3,2,1,1
+168,Much Ado About Nothing,3,4,0,1,1
+169,Much Ado About Nothing,3,5,0,1,0
+170,Much Ado About Nothing,4,1,1,1,2
+171,Much Ado About Nothing,4,2,0,1,1
+172,Much Ado About Nothing,5,1,1,1,2
+173,Much Ado About Nothing,5,2,0,1,1
+174,Much Ado About Nothing,5,3,0,1,1
+175,Much Ado About Nothing,5,4,2,1,2
+176,"Pericles, Prince of Tyre",1,0,0,2,1
+177,"Pericles, Prince of Tyre",1,1,2,2,1
+178,"Pericles, Prince of Tyre",1,2,2,2,1
+179,"Pericles, Prince of Tyre",1,3,0,1,1
+180,"Pericles, Prince of Tyre",1,4,2,2,1
+181,"Pericles, Prince of Tyre",2,1,2,1,1
+182,"Pericles, Prince of Tyre",2,2,0,2,1
+183,"Pericles, Prince of Tyre",2,3,2,1,1
+184,"Pericles, Prince of Tyre",2,4,0,2,1
+185,"Pericles, Prince of Tyre",2,5,2,1,1
+186,"Pericles, Prince of Tyre",3,2,0,1,1
+187,"Pericles, Prince of Tyre",3,3,0,1,1
+188,"Pericles, Prince of Tyre",3,4,0,2,1
+189,"Pericles, Prince of Tyre",4,1,0,1,1
+190,"Pericles, Prince of Tyre",4,2,2,1,1
+191,"Pericles, Prince of Tyre",4,3,0,1,1
+192,"Pericles, Prince of Tyre",4,5,0,1,1
+193,"Pericles, Prince of Tyre",4,6,2,1,0
+194,"Pericles, Prince of Tyre",5,1,2,1,1
+195,"Pericles, Prince of Tyre",5,3,0,1,1
+196,The Taming of the Shrew,0,1,2,1,1
+197,The Taming of the Shrew,0,2,2,1,1
+198,The Taming of the Shrew,1,1,2,1,1
+199,The Taming of the Shrew,1,2,1,1,2
+200,The Taming of the Shrew,2,1,1,1,2
+201,The Taming of the Shrew,3,1,0,1,1
+202,The Taming of the Shrew,3,2,2,1,2
+203,The Taming of the Shrew,4,1,2,1,1
+204,The Taming of the Shrew,4,2,2,1,1
+205,The Taming of the Shrew,4,3,2,1,1
+206,The Taming of the Shrew,4,4,0,1,1
+207,The Taming of the Shrew,4,5,0,1,1
+208,The Taming of the Shrew,5,1,2,1,2
+209,The Taming of the Shrew,5,2,2,1,1
+210,The Tempest,1,1,0,1,1
+211,The Tempest,1,2,1,1,2
+212,The Tempest,2,1,1,1,1
+213,The Tempest,2,2,2,1,2
+214,The Tempest,3,1,0,1,1
+215,The Tempest,3,2,2,1,1
+216,The Tempest,3,3,2,1,1
+217,The Tempest,4,1,2,1,1
+218,The Tempest,5,1,1,1,1
+219,Troilus and Cressida,1,1,2,1,1
+220,Troilus and Cressida,1,2,1,1,2
+221,Troilus and Cressida,1,3,1,2,1
+222,Troilus and Cressida,2,1,2,1,1
+223,Troilus and Cressida,2,2,2,1,1
+224,Troilus and Cressida,2,3,2,1,1
+225,Troilus and Cressida,3,1,2,1,1
+226,Troilus and Cressida,3,2,2,1,2
+227,Troilus and Cressida,3,3,1,1,2
+228,Troilus and Cressida,4,1,0,1,1
+229,Troilus and Cressida,4,2,2,1,2
+230,Troilus and Cressida,4,3,0,2,1
+231,Troilus and Cressida,4,4,2,1,1
+232,Troilus and Cressida,4,5,2,1,0
+233,Troilus and Cressida,5,1,0,1,1
+234,Troilus and Cressida,5,2,2,1,2
+235,Troilus and Cressida,5,3,2,1,1
+236,Troilus and Cressida,5,4,0,1,1
+237,Troilus and Cressida,5,5,0,1,1
+238,Troilus and Cressida,5,6,0,1,1
+239,Troilus and Cressida,5,7,0,1,1
+240,Troilus and Cressida,5,8,0,2,1
+241,Troilus and Cressida,5,9,0,1,1
+242,Troilus and Cressida,5,10,0,1,1
+243,Twelfth Night,1,1,0,1,1
+244,Twelfth Night,1,2,0,1,1
+245,Twelfth Night,1,3,2,1,1
+246,Twelfth Night,1,4,0,1,1
+247,Twelfth Night,1,5,1,1,2
+248,Twelfth Night,2,1,0,1,1
+249,Twelfth Night,2,2,0,1,1
+250,Twelfth Night,2,3,2,1,1
+251,Twelfth Night,2,4,2,1,1
+252,Twelfth Night,2,5,2,1,1
+253,Twelfth Night,3,1,2,1,2
+254,Twelfth Night,3,2,0,1,1
+255,Twelfth Night,3,3,0,2,1
+256,Twelfth Night,3,4,1,1,2
+257,Twelfth Night,4,1,0,1,1
+258,Twelfth Night,4,2,2,1,2
+259,Twelfth Night,4,3,0,2,1
+260,Twelfth Night,5,1,1,1,2
+261,Two Gentlemen of Verona,1,1,2,1,1
+262,Two Gentlemen of Verona,1,2,2,1,1
+263,Two Gentlemen of Verona,1,3,0,1,1
+264,Two Gentlemen of Verona,2,1,2,1,1
+265,Two Gentlemen of Verona,2,2,0,1,1
+266,Two Gentlemen of Verona,2,3,0,1,1
+267,Two Gentlemen of Verona,2,4,2,1,1
+268,Two Gentlemen of Verona,2,5,0,1,1
+269,Two Gentlemen of Verona,2,6,0,2,1
+270,Two Gentlemen of Verona,2,7,0,2,1
+271,Two Gentlemen of Verona,3,1,1,1,1
+272,Two Gentlemen of Verona,3,2,0,2,1
+273,Two Gentlemen of Verona,4,1,0,1,1
+274,Two Gentlemen of Verona,4,2,2,1,2
+275,Two Gentlemen of Verona,4,3,0,2,1
+276,Two Gentlemen of Verona,4,4,2,1,2
+277,Two Gentlemen of Verona,5,1,0,2,1
+278,Two Gentlemen of Verona,5,2,0,1,1
+279,Two Gentlemen of Verona,5,3,0,1,1
+280,Two Gentlemen of Verona,5,4,2,1,2
+281,Winter's Tale,1,1,0,1,1
+282,Winter's Tale,1,2,1,1,1
+283,Winter's Tale,2,1,2,1,1
+284,Winter's Tale,2,2,0,1,1
+285,Winter's Tale,2,3,2,1,1
+286,Winter's Tale,3,1,0,1,1
+287,Winter's Tale,3,2,2,1,1
+288,Winter's Tale,3,3,2,1,1
+289,Winter's Tale,4,2,0,2,1
+290,Winter's Tale,4,3,2,1,1
+291,Winter's Tale,4,4,1,1,2
+292,Winter's Tale,5,1,2,1,1
+293,Winter's Tale,5,2,2,1,2
+294,Winter's Tale,5,3,2,1,1
+295,The First part of King Henry the Fourth,1,1,0,2,1
+296,The First part of King Henry the Fourth,1,2,2,1,1
+297,The First part of King Henry the Fourth,1,3,2,2,2
+298,The First part of King Henry the Fourth,2,1,0,1,1
+299,The First part of King Henry the Fourth,2,2,0,1,1
+300,The First part of King Henry the Fourth,2,3,2,1,0
+301,The First part of King Henry the Fourth,2,4,1,1,2
+302,The First part of King Henry the Fourth,3,1,2,1,2
+303,The First part of King Henry the Fourth,3,2,1,1,2
+304,The First part of King Henry the Fourth,4,1,2,2,1
+305,The First part of King Henry the Fourth,4,2,0,1,1
+306,The First part of King Henry the Fourth,4,3,0,2,1
+307,The First part of King Henry the Fourth,4,4,0,2,1
+308,The First part of King Henry the Fourth,5,1,2,1,0
+309,The First part of King Henry the Fourth,5,2,0,2,1
+310,The First part of King Henry the Fourth,5,3,0,1,1
+311,The First part of King Henry the Fourth,5,4,2,1,2
+312,The First part of King Henry the Fourth,5,5,0,2,1
+313,The Second part of King Henry the Fourth,0,0,0,2,1
+314,The Second part of King Henry the Fourth,1,1,2,2,1
+315,The Second part of King Henry the Fourth,1,2,2,1,0
+316,The Second part of King Henry the Fourth,1,3,0,2,1
+317,The Second part of King Henry the Fourth,2,1,2,1,2
+318,The Second part of King Henry the Fourth,2,2,2,1,1
+319,The Second part of King Henry the Fourth,2,3,0,2,1
+320,The Second part of King Henry the Fourth,2,4,1,1,2
+321,The Second part of King Henry the Fourth,3,1,0,2,1
+322,The Second part of King Henry the Fourth,3,2,1,1,0
+323,The Second part of King Henry the Fourth,4,1,2,2,1
+324,The Second part of King Henry the Fourth,4,2,2,2,1
+325,The Second part of King Henry the Fourth,4,3,2,1,1
+326,The Second part of King Henry the Fourth,4,4,2,2,1
+327,The Second part of King Henry the Fourth,4,5,2,1,1
+328,The Second part of King Henry the Fourth,5,1,0,1,0
+329,The Second part of King Henry the Fourth,5,2,2,2,1
+330,The Second part of King Henry the Fourth,5,3,2,1,1
+331,The Second part of King Henry the Fourth,5,4,0,1,1
+332,The Second part of King Henry the Fourth,5,5,2,1,1
+333,The Life of King Henry the Fifth,1,0,0,2,1
+334,The Life of King Henry the Fifth,1,1,0,2,1
+335,The Life of King Henry the Fifth,1,2,2,2,1
+336,The Life of King Henry the Fifth,2,0,0,2,1
+337,The Life of King Henry the Fifth,2,1,2,1,1
+338,The Life of King Henry the Fifth,2,2,2,2,1
+339,The Life of King Henry the Fifth,2,3,0,1,1
+340,The Life of King Henry the Fifth,2,4,2,2,1
+341,The Life of King Henry the Fifth,3,0,0,2,1
+342,The Life of King Henry the Fifth,3,1,0,2,1
+343,The Life of King Henry the Fifth,3,2,2,1,0
+344,The Life of King Henry the Fifth,3,3,0,2,1
+345,The Life of King Henry the Fifth,3,4,0,1,1
+346,The Life of King Henry the Fifth,3,5,0,2,1
+347,The Life of King Henry the Fifth,3,6,2,1,1
+348,The Life of King Henry the Fifth,3,7,2,1,1
+349,The Life of King Henry the Fifth,4,0,0,2,1
+350,The Life of King Henry the Fifth,4,1,1,1,1
+351,The Life of King Henry the Fifth,4,2,0,1,1
+352,The Life of King Henry the Fifth,4,3,2,2,1
+353,The Life of King Henry the Fifth,4,4,0,1,1
+354,The Life of King Henry the Fifth,4,5,0,1,1
+355,The Life of King Henry the Fifth,4,6,0,2,1
+356,The Life of King Henry the Fifth,4,7,2,1,1
+357,The Life of King Henry the Fifth,4,8,2,1,2
+358,The Life of King Henry the Fifth,5,0,0,2,1
+359,The Life of King Henry the Fifth,5,1,0,1,1
+360,The Life of King Henry the Fifth,5,2,1,1,1
+361,The First part of King Henry the Sixth,1,1,2,1,1
+362,The First part of King Henry the Sixth,1,2,2,1,1
+363,The First part of King Henry the Sixth,1,3,0,1,1
+364,The First part of King Henry the Sixth,1,4,0,1,1
+365,The First part of King Henry the Sixth,1,5,0,2,1
+366,The First part of King Henry the Sixth,1,6,0,2,1
+367,The First part of King Henry the Sixth,2,1,0,1,1
+368,The First part of King Henry the Sixth,2,2,0,2,1
+369,The First part of King Henry the Sixth,2,3,0,1,1
+370,The First part of King Henry the Sixth,2,4,2,1,1
+371,The First part of King Henry the Sixth,2,5,0,2,1
+372,The First part of King Henry the Sixth,3,1,2,1,1
+373,The First part of King Henry the Sixth,3,2,2,1,1
+374,The First part of King Henry the Sixth,3,3,0,2,1
+375,The First part of King Henry the Sixth,3,4,0,2,1
+376,The First part of King Henry the Sixth,4,1,2,2,1
+377,The First part of King Henry the Sixth,4,2,0,2,1
+378,The First part of King Henry the Sixth,4,3,0,2,1
+379,The First part of King Henry the Sixth,4,4,0,2,1
+380,The First part of King Henry the Sixth,4,5,0,2,1
+381,The First part of King Henry the Sixth,4,6,0,2,1
+382,The First part of King Henry the Sixth,4,7,0,2,1
+383,The First part of King Henry the Sixth,5,1,0,2,1
+384,The First part of King Henry the Sixth,5,2,0,2,1
+385,The First part of King Henry the Sixth,5,3,2,1,1
+386,The First part of King Henry the Sixth,5,4,2,1,1
+387,The First part of King Henry the Sixth,5,5,0,2,1
+388,The Second part of King Henry the Sixth,1,1,2,2,1
+389,The Second part of King Henry the Sixth,1,2,0,1,1
+390,The Second part of King Henry the Sixth,1,3,2,1,1
+391,The Second part of King Henry the Sixth,1,4,0,1,1
+392,The Second part of King Henry the Sixth,2,1,2,1,2
+393,The Second part of King Henry the Sixth,2,2,0,2,1
+394,The Second part of King Henry the Sixth,2,3,0,1,1
+395,The Second part of King Henry the Sixth,2,4,0,2,1
+396,The Second part of King Henry the Sixth,3,1,1,2,1
+397,The Second part of King Henry the Sixth,3,2,1,1,1
+398,The Second part of King Henry the Sixth,3,3,0,1,1
+399,The Second part of King Henry the Sixth,4,1,2,1,1
+400,The Second part of King Henry the Sixth,4,2,2,1,1
+401,The Second part of King Henry the Sixth,4,3,0,1,1
+402,The Second part of King Henry the Sixth,4,4,0,1,1
+403,The Second part of King Henry the Sixth,4,5,0,2,1
+404,The Second part of King Henry the Sixth,4,6,0,1,1
+405,The Second part of King Henry the Sixth,4,7,2,1,1
+406,The Second part of King Henry the Sixth,4,8,0,1,1
+407,The Second part of King Henry the Sixth,4,9,0,2,1
+408,The Second part of King Henry the Sixth,4,10,0,2,1
+409,The Second part of King Henry the Sixth,5,1,2,1,1
+410,The Second part of King Henry the Sixth,5,2,0,1,1
+411,The Second part of King Henry the Sixth,5,3,0,2,1
+412,The Third part of King Henry the Sixth,1,1,2,1,1
+413,The Third part of King Henry the Sixth,1,2,0,1,1
+414,The Third part of King Henry the Sixth,1,3,0,1,1
+415,The Third part of King Henry the Sixth,1,4,2,1,1
+416,The Third part of King Henry the Sixth,2,1,2,2,1
+417,The Third part of King Henry the Sixth,2,2,2,2,1
+418,The Third part of King Henry the Sixth,2,3,0,2,1
+419,The Third part of King Henry the Sixth,2,4,0,2,1
+420,The Third part of King Henry the Sixth,2,5,2,1,1
+421,The Third part of King Henry the Sixth,2,6,0,2,1
+422,The Third part of King Henry the Sixth,3,1,2,2,1
+423,The Third part of King Henry the Sixth,3,2,2,1,2
+424,The Third part of King Henry the Sixth,3,3,2,1,1
+425,The Third part of King Henry the Sixth,4,1,2,1,1
+426,The Third part of King Henry the Sixth,4,2,0,2,1
+427,The Third part of King Henry the Sixth,4,3,0,1,1
+428,The Third part of King Henry the Sixth,4,4,0,2,1
+429,The Third part of King Henry the Sixth,4,5,0,1,1
+430,The Third part of King Henry the Sixth,4,6,0,2,1
+431,The Third part of King Henry the Sixth,4,7,0,2,1
+432,The Third part of King Henry the Sixth,4,8,0,2,1
+433,The Third part of King Henry the Sixth,5,1,0,2,1
+434,The Third part of King Henry the Sixth,5,2,0,2,1
+435,The Third part of King Henry the Sixth,5,3,0,2,1
+436,The Third part of King Henry the Sixth,5,4,0,2,1
+437,The Third part of King Henry the Sixth,5,5,0,2,1
+438,The Third part of King Henry the Sixth,5,6,0,2,1
+439,The Third part of King Henry the Sixth,5,7,0,2,1
+440,The Life of King Henry the Eighth,1,0,0,2,1
+441,The Life of King Henry the Eighth,1,1,2,1,1
+442,The Life of King Henry the Eighth,1,2,2,1,1
+443,The Life of King Henry the Eighth,1,3,0,1,1
+444,The Life of King Henry the Eighth,1,4,2,1,1
+445,The Life of King Henry the Eighth,2,1,2,1,1
+446,The Life of King Henry the Eighth,2,2,2,1,1
+447,The Life of King Henry the Eighth,2,3,2,1,1
+448,The Life of King Henry the Eighth,2,4,2,2,1
+449,The Life of King Henry the Eighth,3,1,2,1,1
+450,The Life of King Henry the Eighth,3,2,1,1,1
+451,The Life of King Henry the Eighth,4,1,2,1,1
+452,The Life of King Henry the Eighth,4,2,2,1,1
+453,The Life of King Henry the Eighth,5,1,2,1,1
+454,The Life of King Henry the Eighth,5,2,0,1,1
+455,The Life of King Henry the Eighth,5,3,2,1,1
+456,The Life of King Henry the Eighth,5,4,0,1,1
+457,The Life of King Henry the Eighth,5,5,0,2,1
+458,The Life and Death of King John,1,1,2,1,1
+459,The Life and Death of King John,2,1,1,2,1
+460,The Life and Death of King John,3,1,1,1,1
+461,The Life and Death of King John,3,2,0,2,1
+462,The Life and Death of King John,3,3,0,2,1
+463,The Life and Death of King John,3,4,2,2,1
+464,The Life and Death of King John,4,1,2,1,1
+465,The Life and Death of King John,4,2,2,2,1
+466,The Life and Death of King John,4,3,2,1,1
+467,The Life and Death of King John,5,1,0,2,1
+468,The Life and Death of King John,5,2,2,2,1
+469,The Life and Death of King John,5,3,0,2,1
+470,The Life and Death of King John,5,4,0,2,1
+471,The Life and Death of King John,5,5,0,1,1
+472,The Life and Death of King John,5,6,0,1,1
+473,The Life and Death of King John,5,7,2,2,1
+474,The Life and Death of Richard the Second,1,1,2,2,1
+475,The Life and Death of Richard the Second,1,2,0,2,1
+476,The Life and Death of Richard the Second,1,3,2,2,1
+477,The Life and Death of Richard the Second,1,4,0,2,1
+478,The Life and Death of Richard the Second,2,1,2,2,1
+479,The Life and Death of Richard the Second,2,2,2,1,1
+480,The Life and Death of Richard the Second,2,3,2,2,1
+481,The Life and Death of Richard the Second,2,4,0,2,1
+482,The Life and Death of Richard the Second,3,1,0,2,1
+483,The Life and Death of Richard the Second,3,2,2,2,1
+484,The Life and Death of Richard the Second,3,3,2,2,1
+485,The Life and Death of Richard the Second,3,4,0,2,1
+486,The Life and Death of Richard the Second,4,1,1,1,1
+487,The Life and Death of Richard the Second,5,1,0,2,1
+488,The Life and Death of Richard the Second,5,2,2,1,2
+489,The Life and Death of Richard the Second,5,3,2,1,1
+490,The Life and Death of Richard the Second,5,4,0,1,1
+491,The Life and Death of Richard the Second,5,5,2,2,1
+492,The Life and Death of Richard the Second,5,6,0,2,1
+493,The Life and Death of Richard the Third,1,1,2,2,1
+494,The Life and Death of Richard the Third,1,2,2,1,2
+495,The Life and Death of Richard the Third,1,3,1,1,2
+496,The Life and Death of Richard the Third,1,4,2,1,2
+497,The Life and Death of Richard the Third,2,1,2,1,1
+498,The Life and Death of Richard the Third,2,2,2,1,1
+499,The Life and Death of Richard the Third,2,3,0,1,1
+500,The Life and Death of Richard the Third,2,4,0,1,1
+501,The Life and Death of Richard the Third,3,1,2,1,1
+502,The Life and Death of Richard the Third,3,2,2,1,0
+503,The Life and Death of Richard the Third,3,3,0,2,1
+504,The Life and Death of Richard the Third,3,4,2,2,1
+505,The Life and Death of Richard the Third,3,5,0,2,1
+506,The Life and Death of Richard the Third,3,6,0,1,1
+507,The Life and Death of Richard the Third,3,7,2,2,1
+508,The Life and Death of Richard the Third,4,1,0,1,1
+509,The Life and Death of Richard the Third,4,2,2,1,1
+510,The Life and Death of Richard the Third,4,3,0,2,1
+511,The Life and Death of Richard the Third,4,4,1,1,2
+512,The Life and Death of Richard the Third,4,5,0,2,1
+513,The Life and Death of Richard the Third,5,1,0,2,1
+514,The Life and Death of Richard the Third,5,2,0,2,1
+515,The Life and Death of Richard the Third,5,3,1,1,1
+516,The Life and Death of Richard the Third,5,4,0,1,1
+517,The Life and Death of Richard the Third,5,5,0,1,1
+518,Antony and Cleopatra,1,1,0,1,1
+519,Antony and Cleopatra,1,2,2,1,1
+520,Antony and Cleopatra,1,3,2,1,1
+521,Antony and Cleopatra,1,4,0,2,1
+522,Antony and Cleopatra,1,5,0,1,1
+523,Antony and Cleopatra,2,1,0,1,1
+524,Antony and Cleopatra,2,2,2,1,1
+525,Antony and Cleopatra,2,3,0,1,1
+526,Antony and Cleopatra,2,4,0,1,1
+527,Antony and Cleopatra,2,5,2,1,1
+528,Antony and Cleopatra,2,6,2,1,2
+529,Antony and Cleopatra,2,7,2,1,1
+530,Antony and Cleopatra,3,1,0,1,1
+531,Antony and Cleopatra,3,2,0,1,1
+532,Antony and Cleopatra,3,3,0,1,1
+533,Antony and Cleopatra,3,4,0,2,1
+534,Antony and Cleopatra,3,5,0,1,1
+535,Antony and Cleopatra,3,6,0,1,1
+536,Antony and Cleopatra,3,7,0,1,1
+537,Antony and Cleopatra,3,8,0,1,1
+538,Antony and Cleopatra,3,9,0,2,1
+539,Antony and Cleopatra,3,10,0,1,1
+540,Antony and Cleopatra,3,11,0,1,1
+541,Antony and Cleopatra,3,12,0,1,1
+542,Antony and Cleopatra,3,13,2,1,1
+543,Antony and Cleopatra,4,1,0,1,1
+544,Antony and Cleopatra,4,2,0,1,1
+545,Antony and Cleopatra,4,3,0,1,1
+546,Antony and Cleopatra,4,4,0,1,1
+547,Antony and Cleopatra,4,5,0,1,1
+548,Antony and Cleopatra,4,6,0,1,1
+549,Antony and Cleopatra,4,7,0,1,1
+550,Antony and Cleopatra,4,8,0,1,1
+551,Antony and Cleopatra,4,9,0,1,1
+552,Antony and Cleopatra,4,10,0,2,1
+553,Antony and Cleopatra,4,11,0,2,1
+554,Antony and Cleopatra,4,12,0,1,1
+555,Antony and Cleopatra,4,13,0,1,1
+556,Antony and Cleopatra,4,14,2,1,1
+557,Antony and Cleopatra,4,15,0,1,1
+558,Antony and Cleopatra,5,1,0,1,1
+559,Antony and Cleopatra,5,2,1,1,1
+560,The Tragedy of Coriolanus,1,1,2,1,1
+561,The Tragedy of Coriolanus,1,2,0,1,1
+562,The Tragedy of Coriolanus,1,3,2,1,0
+563,The Tragedy of Coriolanus,1,4,0,1,1
+564,The Tragedy of Coriolanus,1,5,0,1,1
+565,The Tragedy of Coriolanus,1,6,0,1,1
+566,The Tragedy of Coriolanus,1,7,0,1,1
+567,The Tragedy of Coriolanus,1,8,0,1,1
+568,The Tragedy of Coriolanus,1,9,0,1,1
+569,The Tragedy of Coriolanus,1,10,0,1,1
+570,The Tragedy of Coriolanus,2,1,2,1,2
+571,The Tragedy of Coriolanus,2,2,2,1,1
+572,The Tragedy of Coriolanus,2,3,2,1,1
+573,The Tragedy of Coriolanus,3,1,1,1,1
+574,The Tragedy of Coriolanus,3,2,2,1,1
+575,The Tragedy of Coriolanus,3,3,2,1,1
+576,The Tragedy of Coriolanus,4,1,0,1,1
+577,The Tragedy of Coriolanus,4,2,0,1,1
+578,The Tragedy of Coriolanus,4,3,0,1,1
+579,The Tragedy of Coriolanus,4,4,0,1,1
+580,The Tragedy of Coriolanus,4,5,2,1,2
+581,The Tragedy of Coriolanus,4,6,2,1,0
+582,The Tragedy of Coriolanus,4,7,0,2,1
+583,The Tragedy of Coriolanus,5,1,0,1,1
+584,The Tragedy of Coriolanus,5,2,2,1,1
+585,The Tragedy of Coriolanus,5,3,2,1,1
+586,The Tragedy of Coriolanus,5,4,0,1,1
+587,The Tragedy of Coriolanus,5,5,0,1,1
+588,The Tragedy of Coriolanus,5,6,2,1,1
+589,"The Tragedy of Hamlet, Prince of Denmark",1,1,2,1,1
+590,"The Tragedy of Hamlet, Prince of Denmark",1,2,2,1,0
+591,"The Tragedy of Hamlet, Prince of Denmark",1,3,2,2,1
+592,"The Tragedy of Hamlet, Prince of Denmark",1,4,0,1,1
+593,"The Tragedy of Hamlet, Prince of Denmark",1,5,2,1,1
+594,"The Tragedy of Hamlet, Prince of Denmark",2,1,2,1,1
+595,"The Tragedy of Hamlet, Prince of Denmark",2,2,1,1,0
+596,"The Tragedy of Hamlet, Prince of Denmark",3,1,2,1,1
+597,"The Tragedy of Hamlet, Prince of Denmark",3,2,1,1,1
+598,"The Tragedy of Hamlet, Prince of Denmark",3,3,0,1,1
+599,"The Tragedy of Hamlet, Prince of Denmark",3,4,2,1,1
+600,"The Tragedy of Hamlet, Prince of Denmark",4,1,0,1,1
+601,"The Tragedy of Hamlet, Prince of Denmark",4,2,0,1,1
+602,"The Tragedy of Hamlet, Prince of Denmark",4,3,0,1,1
+603,"The Tragedy of Hamlet, Prince of Denmark",4,4,0,2,1
+604,"The Tragedy of Hamlet, Prince of Denmark",4,5,2,1,2
+605,"The Tragedy of Hamlet, Prince of Denmark",4,6,0,1,1
+606,"The Tragedy of Hamlet, Prince of Denmark",4,7,2,1,1
+607,"The Tragedy of Hamlet, Prince of Denmark",5,1,1,1,1
+608,"The Tragedy of Hamlet, Prince of Denmark",5,2,1,1,1
+609,The Life and Death of Julius Caesar,1,1,0,1,1
+610,The Life and Death of Julius Caesar,1,2,1,1,0
+611,The Life and Death of Julius Caesar,1,3,2,2,1
+612,The Life and Death of Julius Caesar,2,1,1,1,1
+613,The Life and Death of Julius Caesar,2,2,2,1,2
+614,The Life and Death of Julius Caesar,2,3,0,1,1
+615,The Life and Death of Julius Caesar,2,4,0,1,1
+616,The Life and Death of Julius Caesar,3,1,2,1,1
+617,The Life and Death of Julius Caesar,3,2,2,1,1
+618,The Life and Death of Julius Caesar,3,3,0,1,1
+619,The Life and Death of Julius Caesar,4,1,0,2,1
+620,The Life and Death of Julius Caesar,4,2,0,1,1
+621,The Life and Death of Julius Caesar,4,3,1,1,0
+622,The Life and Death of Julius Caesar,5,1,2,1,1
+623,The Life and Death of Julius Caesar,5,2,0,2,1
+624,The Life and Death of Julius Caesar,5,3,0,1,1
+625,The Life and Death of Julius Caesar,5,4,0,1,1
+626,The Life and Death of Julius Caesar,5,5,0,1,1
+627,King Lear,1,1,1,1,1
+628,King Lear,1,2,2,1,1
+629,King Lear,1,3,0,1,1
+630,King Lear,1,4,1,1,2
+631,King Lear,1,5,0,1,1
+632,King Lear,2,1,2,1,1
+633,King Lear,2,2,2,1,2
+634,King Lear,2,3,0,2,1
+635,King Lear,2,4,1,1,0
+636,King Lear,3,1,0,2,1
+637,King Lear,3,2,0,1,1
+638,King Lear,3,3,0,2,1
+639,King Lear,3,4,2,1,1
+640,King Lear,3,5,0,1,1
+641,King Lear,3,6,0,1,1
+642,King Lear,3,7,0,1,1
+643,King Lear,4,1,0,1,1
+644,King Lear,4,2,0,1,1
+645,King Lear,4,3,0,1,1
+646,King Lear,4,4,0,1,1
+647,King Lear,4,5,0,1,1
+648,King Lear,4,6,2,1,1
+649,King Lear,4,7,0,1,1
+650,King Lear,5,1,0,1,1
+651,King Lear,5,2,0,1,1
+652,King Lear,5,3,1,1,1
+653,The Tragedy of Macbeth,1,1,0,1,1
+654,The Tragedy of Macbeth,1,2,0,1,1
+655,The Tragedy of Macbeth,1,3,2,1,1
+656,The Tragedy of Macbeth,1,4,0,2,1
+657,The Tragedy of Macbeth,1,5,0,1,1
+658,The Tragedy of Macbeth,1,6,0,1,1
+659,The Tragedy of Macbeth,1,7,0,1,1
+660,The Tragedy of Macbeth,2,1,0,1,1
+661,The Tragedy of Macbeth,2,2,0,1,1
+662,The Tragedy of Macbeth,2,3,2,1,1
+663,The Tragedy of Macbeth,2,4,0,1,1
+664,The Tragedy of Macbeth,3,1,2,1,1
+665,The Tragedy of Macbeth,3,2,0,1,1
+666,The Tragedy of Macbeth,3,3,0,1,1
+667,The Tragedy of Macbeth,3,4,2,1,1
+668,The Tragedy of Macbeth,3,5,0,2,1
+669,The Tragedy of Macbeth,3,6,0,1,1
+670,The Tragedy of Macbeth,4,1,2,1,1
+671,The Tragedy of Macbeth,4,2,0,1,1
+672,The Tragedy of Macbeth,4,3,2,1,1
+673,The Tragedy of Macbeth,5,1,0,1,1
+674,The Tragedy of Macbeth,5,2,0,1,1
+675,The Tragedy of Macbeth,5,3,0,1,1
+676,The Tragedy of Macbeth,5,4,0,2,1
+677,The Tragedy of Macbeth,5,5,0,1,1
+678,The Tragedy of Macbeth,5,6,0,2,1
+679,The Tragedy of Macbeth,5,7,0,1,1
+680,The Tragedy of Macbeth,5,8,0,1,1
+681,"Othello, the Moore of Venice",1,1,2,1,1
+682,"Othello, the Moore of Venice",1,2,0,1,1
+683,"Othello, the Moore of Venice",1,3,1,1,2
+684,"Othello, the Moore of Venice",2,1,1,1,1
+685,"Othello, the Moore of Venice",2,2,0,2,1
+686,"Othello, the Moore of Venice",2,3,1,1,0
+687,"Othello, the Moore of Venice",3,1,0,1,1
+688,"Othello, the Moore of Venice",3,2,0,1,1
+689,"Othello, the Moore of Venice",3,3,1,1,2
+690,"Othello, the Moore of Venice",3,4,2,1,1
+691,"Othello, the Moore of Venice",4,1,1,1,0
+692,"Othello, the Moore of Venice",4,2,2,1,2
+693,"Othello, the Moore of Venice",4,3,2,1,1
+694,"Othello, the Moore of Venice",5,1,2,1,0
+695,"Othello, the Moore of Venice",5,2,1,1,2
+696,Romeo and Juliet,1,0,0,2,1
+697,Romeo and Juliet,1,1,2,1,1
+698,Romeo and Juliet,1,2,0,1,1
+699,Romeo and Juliet,1,3,0,1,1
+700,Romeo and Juliet,1,4,0,2,1
+701,Romeo and Juliet,1,5,2,1,1
+702,Romeo and Juliet,2,0,0,2,1
+703,Romeo and Juliet,2,1,0,1,1
+704,Romeo and Juliet,2,2,2,1,1
+705,Romeo and Juliet,2,3,0,2,1
+706,Romeo and Juliet,2,4,2,1,1
+707,Romeo and Juliet,2,5,0,1,1
+708,Romeo and Juliet,2,6,0,2,1
+709,Romeo and Juliet,3,1,2,1,1
+710,Romeo and Juliet,3,2,2,1,1
+711,Romeo and Juliet,3,3,2,1,1
+712,Romeo and Juliet,3,4,0,1,1
+713,Romeo and Juliet,3,5,2,1,2
+714,Romeo and Juliet,4,1,2,2,1
+715,Romeo and Juliet,4,2,0,1,1
+716,Romeo and Juliet,4,3,0,1,1
+717,Romeo and Juliet,4,4,0,1,1
+718,Romeo and Juliet,4,5,2,1,1
+719,Romeo and Juliet,5,1,0,1,1
+720,Romeo and Juliet,5,2,0,2,1
+721,Romeo and Juliet,5,3,1,1,1
+722,Timon of Athens,1,1,2,1,1
+723,Timon of Athens,1,2,2,1,1
+724,Timon of Athens,2,1,0,1,1
+725,Timon of Athens,2,2,2,1,1
+726,Timon of Athens,3,1,0,1,1
+727,Timon of Athens,3,2,0,1,0
+728,Timon of Athens,3,3,0,1,1
+729,Timon of Athens,3,4,2,1,1
+730,Timon of Athens,3,5,0,1,1
+731,Timon of Athens,3,6,2,1,1
+732,Timon of Athens,4,1,0,1,1
+733,Timon of Athens,4,2,0,1,1
+734,Timon of Athens,4,3,1,1,1
+735,Timon of Athens,5,1,2,1,2
+736,Timon of Athens,5,2,0,2,1
+737,Timon of Athens,5,3,0,1,1
+738,Timon of Athens,5,4,0,2,1
+739,Titus Andronicus,1,1,1,1,1
+740,Titus Andronicus,2,1,2,1,1
+741,Titus Andronicus,2,2,0,2,1
+742,Titus Andronicus,2,3,1,1,1
+743,Titus Andronicus,2,4,0,2,1
+744,Titus Andronicus,3,1,1,1,1
+745,Titus Andronicus,3,2,0,2,1
+746,Titus Andronicus,4,1,2,1,1
+747,Titus Andronicus,4,2,2,1,1
+748,Titus Andronicus,4,3,2,1,1
+749,Titus Andronicus,4,4,0,1,1
+750,Titus Andronicus,5,1,2,2,1
+751,Titus Andronicus,5,2,2,2,1
+752,Titus Andronicus,5,3,2,2,1
+753,Sonnets,1,1,0,2,1
+754,Sonnets,1,2,0,2,1
+755,Sonnets,1,3,0,2,1
+756,Sonnets,1,4,0,1,1
+757,Sonnets,1,5,0,0,1
+758,Sonnets,1,6,0,2,1
+759,Sonnets,1,7,0,2,1
+760,Sonnets,1,8,0,2,1
+761,Sonnets,1,9,0,2,1
+762,Sonnets,1,10,0,2,1
+763,Sonnets,1,11,0,2,1
+764,Sonnets,1,12,0,0,1
+765,Sonnets,1,13,0,1,1
+766,Sonnets,1,14,0,0,1
+767,Sonnets,1,15,0,0,1
+768,Sonnets,1,16,0,2,1
+769,Sonnets,1,17,0,2,1
+770,Sonnets,1,18,0,2,1
+771,Sonnets,1,19,0,0,1
+772,Sonnets,1,20,0,2,1
+773,Sonnets,1,21,0,2,1
+774,Sonnets,1,22,0,2,1
+775,Sonnets,1,23,0,2,1
+776,Sonnets,1,24,0,2,1
+777,Sonnets,1,25,0,2,1
+778,Sonnets,1,26,0,0,1
+779,Sonnets,1,27,0,2,1
+780,Sonnets,1,28,0,1,1
+781,Sonnets,1,29,0,0,1
+782,Sonnets,1,30,0,2,1
+783,Sonnets,1,31,0,2,1
+784,Sonnets,1,32,0,2,1
+785,Sonnets,1,33,0,2,1
+786,Sonnets,1,34,0,2,1
+787,Sonnets,1,35,0,2,1
+788,Sonnets,1,36,0,2,1
+789,Sonnets,1,37,0,2,1
+790,Sonnets,1,38,0,2,1
+791,Sonnets,1,39,0,2,1
+792,Sonnets,1,40,0,2,1
+793,Sonnets,1,41,0,2,1
+794,Sonnets,1,42,0,2,1
+795,Sonnets,1,43,0,2,1
+796,Sonnets,1,44,0,2,1
+797,Sonnets,1,45,0,0,1
+798,Sonnets,1,46,0,2,1
+799,Sonnets,1,47,0,0,1
+800,Sonnets,1,48,0,2,1
+801,Sonnets,1,49,0,0,1
+802,Sonnets,1,50,0,2,1
+803,Sonnets,1,51,0,2,1
+804,Sonnets,1,52,0,2,1
+805,Sonnets,1,53,0,2,1
+806,Sonnets,1,54,0,2,1
+807,Sonnets,1,55,0,2,1
+808,Sonnets,1,56,0,0,1
+809,Sonnets,1,57,0,2,1
+810,Sonnets,1,58,0,2,1
+811,Sonnets,1,59,0,2,1
+812,Sonnets,1,60,0,2,1
+813,Sonnets,1,61,0,2,1
+814,Sonnets,1,62,0,2,1
+815,Sonnets,1,63,0,0,1
+816,Sonnets,1,64,0,2,1
+817,Sonnets,1,65,0,1,1
+818,Sonnets,1,66,0,0,1
+819,Sonnets,1,67,0,1,1
+820,Sonnets,1,68,0,0,1
+821,Sonnets,1,69,0,2,1
+822,Sonnets,1,70,0,2,1
+823,Sonnets,1,71,0,2,1
+824,Sonnets,1,72,0,2,1
+825,Sonnets,1,73,0,2,1
+826,Sonnets,1,74,0,2,1
+827,Sonnets,1,75,0,2,1
+828,Sonnets,1,76,0,2,1
+829,Sonnets,1,77,0,2,1
+830,Sonnets,1,78,0,2,1
+831,Sonnets,1,79,0,2,1
+832,Sonnets,1,80,0,2,1
+833,Sonnets,1,81,0,2,1
+834,Sonnets,1,82,0,0,1
+835,Sonnets,1,83,0,2,1
+836,Sonnets,1,84,0,2,1
+837,Sonnets,1,85,0,2,1
+838,Sonnets,1,86,0,2,1
+839,Sonnets,1,87,0,1,1
+840,Sonnets,1,88,0,2,1
+841,Sonnets,1,89,0,2,1
+842,Sonnets,1,90,0,0,1
+843,Sonnets,1,91,0,0,1
+844,Sonnets,1,92,0,2,1
+845,Sonnets,1,93,0,2,1
+846,Sonnets,1,94,0,2,1
+847,Sonnets,1,95,0,2,1
+848,Sonnets,1,96,0,2,1
+849,Sonnets,1,97,0,2,1
+850,Sonnets,1,98,0,2,1
+851,Sonnets,1,99,0,2,1
+852,Sonnets,1,100,0,2,1
+853,Sonnets,1,101,0,2,1
+854,Sonnets,1,102,0,2,1
+855,Sonnets,1,103,0,2,1
+856,Sonnets,1,104,0,2,1
+857,Sonnets,1,105,0,2,1
+858,Sonnets,1,106,0,2,1
+859,Sonnets,1,107,0,2,1
+860,Sonnets,1,108,0,2,1
+861,Sonnets,1,109,0,2,1
+862,Sonnets,1,110,0,2,1
+863,Sonnets,1,111,0,2,1
+864,Sonnets,1,112,0,2,1
+865,Sonnets,1,113,0,0,1
+866,Sonnets,1,114,0,2,1
+867,Sonnets,1,115,0,2,1
+868,Sonnets,1,116,0,2,1
+869,Sonnets,1,117,0,2,1
+870,Sonnets,1,118,0,2,1
+871,Sonnets,1,119,0,1,1
+872,Sonnets,1,120,0,2,1
+873,Sonnets,1,121,0,2,1
+874,Sonnets,1,122,0,2,1
+875,Sonnets,1,123,0,2,1
+876,Sonnets,1,124,0,2,1
+877,Sonnets,1,125,0,1,1
+878,Sonnets,1,126,0,2,1
+879,Sonnets,1,127,0,0,1
+880,Sonnets,1,128,0,2,1
+881,Sonnets,1,129,0,0,1
+882,Sonnets,1,130,0,2,1
+883,Sonnets,1,131,0,2,1
+884,Sonnets,1,132,0,2,1
+885,Sonnets,1,133,0,2,1
+886,Sonnets,1,134,0,2,1
+887,Sonnets,1,135,0,2,1
+888,Sonnets,1,136,0,2,1
+889,Sonnets,1,137,0,2,1
+890,Sonnets,1,138,0,2,1
+891,Sonnets,1,139,0,2,1
+892,Sonnets,1,140,0,0,1
+893,Sonnets,1,141,0,0,1
+894,Sonnets,1,142,0,2,1
+895,Sonnets,1,143,0,2,1
+896,Sonnets,1,144,0,2,1
+897,Sonnets,1,145,0,0,1
+898,Sonnets,1,146,0,2,1
+899,Sonnets,1,147,0,2,1
+900,Sonnets,1,148,0,1,1
+901,Sonnets,1,149,0,1,1
+902,Sonnets,1,150,0,1,1
+903,Sonnets,1,151,0,2,1
+904,Sonnets,1,152,0,2,1
+905,Sonnets,1,153,0,0,1
+906,Sonnets,1,154,0,2,1
